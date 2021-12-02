@@ -1,0 +1,800 @@
+./filelists/wavs/0.wav|지금부터 그러면 본격적으로 우리가 도련동에 대해서 조사를 할 거라 예? 이 마을이 언제 어떻게 형성뒛덴 헌 말 알아지는 데로 ᄀᆞᆯ아줍서.
+./filelists/wavs/1.wav|예, 그건 한 칠백년 전에 이제 그 설촌이 시작이 되었다고 헙니다.
+./filelists/wavs/2.wav|예. 칠백년 전에 설촌이 뒈엇는데 이제 그루후에 이제 성씨들이 여러 성씨들이 많이 와가지고 현재는 ᄒᆞᆫ 팔십여 성씨. 경 뒈서마씀.
+./filelists/wavs/3.wav|예. 그러면은 칠백년부터 허는데 설촌할 때 어떤 성씨들이 헷덴 말도 이신가마씨?
+./filelists/wavs/4.wav|그 다음 양씨. 고씨. 마 대략적으로 요런 순서가 뒘서양.
+./filelists/wavs/5.wav|예. 게믄 그때는 그렇게 하다가 지금은 어느 성씨가 젤 하우꽈? 요즘 은, 요즘 도련?
+./filelists/wavs/6.wav|요즘은 역시 김씨, 고씨 이제 그렇게덜 잇어난디 이제 그 사방으로 이 젊은 사름이 전부 떠나부려 놓니까 모든 성씨가 골고로 그자 많토 아녀고 족도 아녀고 그자 경 뒈어서마씀.
+./filelists/wavs/7.wav|이젠 성씨가 아까 뭐 몇 가지지?
+./filelists/wavs/8.wav|그것도 그 성씨가 내가 그전에 반장을 헤봣는데.
+./filelists/wavs/9.wav|반장을 여기서 여기 도련에 일반인디 여기가.
+./filelists/wavs/10.wav|우리 반 귀역만 조사해 보니까 한 이십여 성씨가 되니까, 아 이젠 그것에 추미가 부떤. 또 ᄄᆞᆫ 반에는 어떤 성씨가 잇나 헤서 영 그 저 수소문헨 보니까 ᄒᆞᆫ 팔십여 성씨가 뒈연에.
+./filelists/wavs/11.wav|상당이 많은 성씰 가졋는데 기씨같은 분들은 에 대개 그 여자 어른 덜이 왓다가 이제 가버리니깐 지금 현재 남자로선 없는 거 같고.
+./filelists/wavs/12.wav|그 지금 그러면 지금 여기가 도련일동 아니우까예? 여기가 옛날 이름 뭐라마씨?
+./filelists/wavs/13.wav|지금 도련드르는 게면 몇 명 정도 살고 있고 아까 일반이라고 헷는데 몃 개 반으로 형성되었는지.
+./filelists/wavs/14.wav|예. ᄒᆞᆫ 백설 남은 호가 이제 살고 잇고.
+./filelists/wavs/15.wav|옛 어른덜. 인제 그 외에 현재는 이 아파트나 또 이 저 빌라들이나 이렇게덜 많이 와 놓니깐 거기에 그 온 어른덜은 우리가 얼마가 사는지 걸 모르커 라마씸.
+./filelists/wavs/16.wav|옛날 전통적으로 쭉 내려온 분들이 한 백삼십 여호고예 아까 반은 멧 개로 구성뒌마씨? 옛날 요즘 사름덜 말고.
+./filelists/wavs/17.wav|또 자연마을덜도 이신가마씨? 웃동네니 알동네니 허는 식으로?
+./filelists/wavs/18.wav|이제 그런 것은 이 서쪽에 삼수샛내는 이제 항몽시대에도 거기서 이제 싸움을 헷다는 그런 그 구전이 잇고.
+./filelists/wavs/19.wav|으, 삼수샛내에서. 그 항몽 그 당시 에, 김, 김수 장군. 아, 김.
+./filelists/wavs/20.wav|김수 장군이 이제 거기서 이제 저 밑엣 동네 밑에서 으 삼양삼동 가까운 디서 싸움헷다는 그런 그 구전이 잇는가 하면은.
+./filelists/wavs/21.wav|지금 현재 역사적으로 찾알 봐도 찾을 길이 없어가지고 입으로 전허 는 말이니까.
+./filelists/wavs/22.wav|	지금 그렇게 되고. 다시 잠깐이.
+./filelists/wavs/23.wav|	동쪽으로 나가민 거기서는 옛날 그 옆에 망내미동산이 잇는데.
+./filelists/wavs/24.wav|	망내미는 그 저 옛날 사형수, 사형허던 사람.
+./filelists/wavs/25.wav|	경헌 사람들이 이제 있엇다고 허고, 벤밧은 이제 사람 그 목을 짤라 난 곳이 아닌가.
+./filelists/wavs/26.wav|	예전에 이제 즉 말허면 한 칠십 년대 초.
+./filelists/wavs/27.wav|	이제 그때는 이제 그 조사해 보니까 거기 무덤도 많고 허니까, 그 다 시 새나물이라고 해서.
+./filelists/wavs/28.wav|	그 도련을 이렇게 다스리는 밖에.
+./filelists/wavs/29.wav|	물인 거 같아. 새나물헌 게. 벤방, 벤방 새 자 놔가지고. 생수 니 뭐니 지금 허는데, 내가 생각헐 때는 변방 새 자로 변두리에 잇는 물이라고 헤 서 이제 새나물이 아닌가.
+./filelists/wavs/30.wav|	이제 그렇게 들고. 에 요쪽으로 다시 서쪽으로 똑허게 이 저 마을, 마을로 들어오면은 이제 웃수영이라고 허는 곳이 있는데.
+./filelists/wavs/31.wav|	웃수영은 옛 어른덜이 경기장.
+./filelists/wavs/32.wav|	경기장을 이제 사전엘 ᄎᆞᆽ아보면은 수영이 경기장입디다.
+./filelists/wavs/33.wav|	경기장을 허면서 그 경기장을 수영을 받침해주는 것이 관동산.
+./filelists/wavs/34.wav|	그 양쪽으로 이제 관람헐 수 잇는 그런 위치가 되어 잇고, 다시 그 앞에 저대왓이 잇고 베지왓이 잇고.
+./filelists/wavs/35.wav|	이제 그런 걸 보면은 이제 저대왓은 그때 그 경기헐 때에 그 경기허 는 사름덜을 즐겁게 허기 위해서.
+./filelists/wavs/36.wav|	이제 그 불무 모든 그 병기를 만들고, 다시 그 옆 밧이 묵, 묵고왓 . 묵고왓은 무슨 밧인고 하면은 무기를 만들어서 이제 창고에 넣었든 그.
+./filelists/wavs/37.wav|	수진무 벼슬까지 헤엿고. 이제 다시 또 거기에 다시 안병대. 지금으로 말허면 소연병장, 작은 병뒤 훈련 가르치던 곳. 또 그 밑으로 오면 은 베리왓이 잇는데.
+./filelists/wavs/38.wav|	베리왓은 뭐이고 허면 지금 에, 줄다리기 하던 밧. 뭐 옛 어른덜이 그물코가 만이라도 베릿줄 없으면 못헌다.
+./filelists/wavs/39.wav|	다시 또 밑으로 내려가면 베리왓.
+./filelists/wavs/40.wav|	아 저 거세기, 베리왓이 아니고 수위집터.
+./filelists/wavs/41.wav|	으. 게믄 저 뒷동산에 이제 수위집터가 잇는데 수위집턴 그 경비허는 사름덜이 살면서 거기에 사방을 그 살피던.
+./filelists/wavs/42.wav|	ᄉᆞ방데레 베리던 경헌 이제 터. 다시 그 옆에 가면은 굴동산이라 고 잇는데 그건 지금 우리가 찾아볼 길이 없고.
+./filelists/wavs/43.wav|	게니까 거기서 뭘 만들어난 것도 같으고. 그것도 없고. 다시 또 이 동쪽으로 돌아오면은 절왓이 잇는가하면은 그 절왓은 에 서 목사.
+./filelists/wavs/44.wav|	그때에 그 절을 없애는데 에 거기 절간도 같이 없어졋다고 헙니다.
+./filelists/wavs/45.wav|	이제 지금 더는 셍각이 잘 안 나가지고.
+./filelists/wavs/46.wav|	이제 다 말을 못허겟는데 대략적으로 이제 이런 요 정도.
+./filelists/wavs/47.wav|	아닙니다. 아니우다. 원단이ᄆᆞ루에는 그 묘덜토 써버리고 뭐허니깐 이젠 마을회관에서 이제 젤 지내고.
+./filelists/wavs/48.wav|	그 옆에 이제 그 사삼 위령. 그 한 벡 메다 이제 동쪽으로 사삼위령 비가 세와 잇고 거기에 당.
+./filelists/wavs/49.wav|	그 아까 말헐 때 그 거욱대 잇엇던데예, 거기는 답은 엇어마씨? 옛날 에 답들도.
+./filelists/wavs/50.wav|	지금도 거욱대가 남아 잇는 건 잇잖우꽈? 탑은예.
+./filelists/wavs/51.wav|	엇어. 싹 밀언에 과수원덜 다 뒈부니까.
+./filelists/wavs/52.wav|	지금은. 어렷을 때는 봐난마씨?
+./filelists/wavs/53.wav|	알아수다. 혹시 이 마을에는 그 기관덜예?
+./filelists/wavs/54.wav|	기관들은 어떤 게 이신고예? 도련에 기관 잇덴 허면은.
+./filelists/wavs/55.wav|	도련에 기관 잇덴 허면은 뭐 우선 지금 마을 마을회장이 잇고, 청년 회가 잇고, 부녀회가 잇고. 또 옛날은 농사구락부, 농사구락부랏는데.
+./filelists/wavs/56.wav|	지금은 농, 이 저, 농촌지도자협의회.
+./filelists/wavs/57.wav|	에, 그게 존재헷다가 그, 이제 그건 많이 없어졋고.
+./filelists/wavs/58.wav|	지도자협의회는 많이 없어지고 이제 그 나무지는 사에치도 지금은 없어져분 거 같으고. 지금 이제 독서실 남아 잇고.
+./filelists/wavs/59.wav|	이제 경로당이 잇고, 이제 마을회관이 잇고 이제.
+./filelists/wavs/60.wav|	그 저 다른 기관들은 엇어예?
+./filelists/wavs/61.wav|	혹시 예전에는 이 마을 일들 허젠 허면은 접덜이 하나지 아녀우과예? 제, 제. 이 마을에는 어떤 제들이 잇어나신고예?
+./filelists/wavs/62.wav|	이 마을에는 목, 에 주로 목장제.
+./filelists/wavs/63.wav|	목장제가 이 우마를, 이 소 말을 키우기 위헤서 목장제가 잇엇고, 다 시 이 사람이 죽으면 이 천, 이 장막이라고 허카. 천막을이.
+./filelists/wavs/64.wav|	장막제 그런 게 잇고. 또 그, 그 전에는 다시 저 씨집 장게가젠 허면 이 가마.
+./filelists/wavs/65.wav|	가마제덜이 잇엇고, 이제 대개 그 정도밖에 모르겟네.
+./filelists/wavs/66.wav|	음, 목장제, 삼춘 목장제도 헤봅디가?
+./filelists/wavs/67.wav|	목장제는 어떤 식으로 운영헤서마씨?
+./filelists/wavs/68.wav|	목장제는 어느 한 부위가 회천 간 목장을 사가지고 이제 ᄒᆞᆫ 만 멧 천 평 그 사가지고 이제 여름에 이제 거기 가서 놔가지고 멕이고,
+./filelists/wavs/69.wav|	예, 그런 식으로 허는 거라예? 그런 제는 게믄 멧 개 정도 이 마을엔 잇어신고예?
+./filelists/wavs/70.wav|	한 두 개 정도. 동 동쪽마을 서쪽마을 헨에.
+./filelists/wavs/71.wav|	목장제는예? 아까 장막제 같은 경우는?
+./filelists/wavs/72.wav|	그렇게 막 크지는 안 허난예, 가마제 이런 것도 헤봅디가?
+./filelists/wavs/73.wav|	아니 그건, 저 우리가 어렷을 때에.
+./filelists/wavs/74.wav|	나도 우리 집사름도 가마 탄 왓주마는.
+./filelists/wavs/75.wav|	아주 도련서 마지막으로 탓어.
+./filelists/wavs/76.wav|	아, 옛날 그 사진 찍은 것도 잇수과?
+./filelists/wavs/77.wav|	기구나예. 이 마을에 풍습이라고 하면 어떤 풍습들이 독특헌 풍습인 고예?
+./filelists/wavs/78.wav|	이 마을에 풍습은 지금 이제 경, 경로를 생각헤야주양.
+./filelists/wavs/79.wav|	경로, 웃어른을 그 역시 도리를 이제 받아서 큰 사름이니까.
+./filelists/wavs/80.wav|	그 웃어른을 섬기고, 이제 잘 그 거기에 이제 적응하도록이 후배에게 도 가르키고, 그러지마는 이 새 사름덜이 자꾸 들어와 놓니까 으, ᄆᆞᆫ 범벅덜 뒈연.
+./filelists/wavs/81.wav|	아까 그 저기서도 얘기헷수다마는 풍습 중에 비 메는 거, 멘촌이면 은 이제 구덕 ᄌᆞᆮ는 거예, 이런 것도 좀 ᄀᆞᆯ아 줍서?
+./filelists/wavs/82.wav|	애기구덕은 에 도련이 엿날 그 목사가 와도 도련 와서 애기구덕은 다. 사 가낫젠 허여.
+./filelists/wavs/83.wav|	젤 ᄎᆞᆷ 그 제주도 안네서는 애기구덕 만드는 것은 도련이 췌고로 그 꼽앗고, 곱게 만들엇젠 ᄃᆞᆫᄃᆞᆫ허고 곱게 만들엇젠. 경허고 그 다음에 빗자루는.
+./filelists/wavs/84.wav|	그 아주 옛날부터도 만들어서 썻는데, 이제 우리 그 뭐 그 수입을 의 존, 아 저 이 돈을 벌기 위한 그 뭣에 이제 도련 그 고씨 어른이 일본에 가가지고.
+./filelists/wavs/85.wav|	각 면 읍에 이제 ᄒᆞᆫ 가마니썩 씨를 보낸 거라.
+./filelists/wavs/86.wav|	보냇는데 결국 남아난 곳은 도련밖에 안 남아나고, 사삼사건 후에 우 리가 주 수입원이 빗자루를 이용헤가지고 이제 많이 살앗주예.
+./filelists/wavs/87.wav|	음. 그 비차락 저기 허는 그 대죽은 무슨 대죽헤마씨? 여기서는.
+./filelists/wavs/88.wav|	나중에 한번 더 해보고예? 그러면 그게 이 마을 특산물.
+./filelists/wavs/89.wav|	특산물이 그거 뒈는 건가마씨? 이 애기구덕허고.
+./filelists/wavs/90.wav|	아 게난 ᄉᆞᆼ키구덕도 그것에 따랑은에 ᄀᆞ치 멘들앗고 애기구덕허고 그 구덕은 이 ᄉᆞᆼ키구덕은 겸허연에덜 만들언.
+./filelists/wavs/91.wav|	음, 그러면 애기구덕허고 ᄉᆞᆼ키구덕 그 ᄌᆞᆯ앗던 거는 언제까지 헷수 가?
+./filelists/wavs/92.wav|	근 사삼사건 때까지 헤연. 사삼사건 때까지.
+./filelists/wavs/93.wav|	아니 삼년 전까지 그 할아부지가 헷는데 돌아가셧어.
+./filelists/wavs/94.wav|	비 메는 것은 지금, 지금도 ᄒᆞᆫ 멧 어른이 메고 잇지마는 에 그 아주 왕성기라고 허까.
+./filelists/wavs/95.wav|	그때는 한 귤나무 심어서 경 허니까 육, 칠십 년대.
+./filelists/wavs/96.wav|	예. 요즘은 뭐 다 청소기도 다 나와 불고 허난예?
+./filelists/wavs/97.wav|	청소기 나오고 역시 지금도 이 밖에 쓰는 건 빗자루고 좋고.
+./filelists/wavs/98.wav|	아, 게난 그 빗자루허고 아까 이제 애기구덕이 우리 여기 특산품이 렌.
+./filelists/wavs/99.wav|	ᄉᆞᆼ키구덕하고예. 특산품이고. 요즘 귤 같은 것도 특산품 아닌가마 씨?
+./filelists/wavs/100.wav|	귤 특산품입주. 저 우리, 우리를 살리고 잇는 거니까. 귤 아니면 살 수가 없지.
+./filelists/wavs/101.wav|	이 마을에 그러면은 여기 대부분에 옛날 어른들은 다 농사짓는다고 보민 뒈지예? 그 분들이 전부 귤 농사를 헴신가마씨?
+./filelists/wavs/102.wav|	예, 거즘. 이제 세대가 젊은 세대들이 그걸 헤줘야 뒐 건데, 젊은 세 대들은 다 직장 따라 나가버리니깐 이제 그분들이 연, 낫ᄉᆞᆯ이이 ᄒᆞ꼼 들어가 사 다시 돌아올 텝주.
+./filelists/wavs/103.wav|	경 아녕은 돌아오질 아녈 거우다.
+./filelists/wavs/104.wav|	이 마을 자랑거리엔 허믄 뭔고예? 이 도련드르 자랑거리?
+./filelists/wavs/105.wav|	도련에 자랑거리엔 허면은 역시 그 경로사상이 좋고. 또 그에 따라서 이 도리를 가리키니까 이 선생님덜토 많고.
+./filelists/wavs/106.wav|	다시 그런대로 이 학자님들토 잇고.
+./filelists/wavs/107.wav|	예. 여기는 마을끼리 이렇게 어른들끼리 화합이 잘되는 편입니까? 여 기 도련은?
+./filelists/wavs/108.wav|	겐디 그 잘뒌다 못뒌다 허는 건 내가 ᄒᆞᆫ 팔십 년 살고 보니까 스물 네 시간에 반은 밤이고 반은 낮 아닙니까?
+./filelists/wavs/109.wav|	게난 그것이 잇어야 조화가 되지.
+./filelists/wavs/110.wav|	그거 없엉은 조화가 뒐 수 엇어.
+./filelists/wavs/111.wav|	그걸 잘 넘기면은. 겨고 내가 항시 이 얘기허는 것은 마, 기독교인들 은 그것을 믿지 않지만은 전생과 현생과 후생을 연결하면은 아무리 이제 악헌 사람 이 와도 악헐 수가 없어요.
+./filelists/wavs/112.wav|	경허민 사람들이 이 마음이 다, 이 다음에 결혼덜 허영 살아도 그런 셍각을 하면은 하나 싸울 거 엇어.
+./filelists/wavs/113.wav|	알아수다. 이제까지는 이 마을 전체에 대해서 대강 여쭤봐서양? 이제 부터는 이제 어르신 개인에 대해서 쫌 물어보쿠다.
+./filelists/wavs/114.wav|	그 낳고 자란 그 과정예, 어렷을 때부터 쭉 대략적으로 이제까지 살 안 보난 이렇게 살아져신게 허는 이런 말씀을 헤여줍서.
+./filelists/wavs/115.wav|	글쎄, 그 말이 그렇게. 책으로 엮어 보젠 헤도 그게 상당히 힘들고.
+./filelists/wavs/116.wav|	것은 책을 만드, 그렇게 허다 보니깐 책도 만드는 사름이 만드는 거 지 아무나 만드는 게 아니로구나.
+./filelists/wavs/117.wav|	허연, 어렷을 때 태어나가지고 그때에는 이 저 옷도 강알튼옷 ᄉᆞ나이 덜은.
+./filelists/wavs/118.wav|	에, 저 겨고 뭐 거즘 반은 나체덜 헤영 다녓으니까.
+./filelists/wavs/119.wav|	삼양국민학굘 가가지고 이제 공부하는데 사삼이란 게 이제 터져가지 고. 이제 사삼 때문에 이 우리가 공부할 것도 못헷수다.
+./filelists/wavs/120.wav|	게난 이젠 ᄎᆞᆷ 국민학굘 ᄆᆞ쳔에 중학교 가는 사름은 가고 못 가는 사 름은 못 가고 나도 못 가수다.
+./filelists/wavs/121.wav|	못 간에 ᄎᆞᆷ 막 늦언에 이제 다녓는데 늦어도 이 송죽학교엔 헨 잇 어낫수다.
+./filelists/wavs/122.wav|	송죽학교가 잇엇는데, 그 학교를 다녓고, 이젠 그 그건 나대로 버을 면서.
+./filelists/wavs/123.wav|	이제 다녓는데, 이제 그러다보니까 그때가 한 스무 살이 거즘 뒈어서 마씀.
+./filelists/wavs/124.wav|	스무 살이 뒈어서 중학생이 스무 설이 뒈여서.
+./filelists/wavs/125.wav|	이제 그 다음에 이제 고등학교 일고가 생긴다고 헤가지고 무조건 일고에 가서 저 원서 들이고 이제 일고에 일 년 다니니까.
+./filelists/wavs/126.wav|	이젠 그땐 이제 낮에는 버을고 밤에는 학교 다녀야 하니깐 그 야간 이 잇엇수다. 일고도.
+./filelists/wavs/127.wav|	일고도 야간 잇엇는데 일 년 다니니까 학교 운영상 상당이 이제 쫌 힘드니까 저 상고로 이제 넘겨버린 거라.
+./filelists/wavs/128.wav|	그 야간학생들을 일체, 또 주간에 갈 사름은 주간에 가고. 상고 그 강석범 교장님한테 이제 가가지고 거기서 일 년을 다니니까.
+./filelists/wavs/129.wav|	예, 나이 때문에. 이제 영장이 나오고. 이제 가서 갓, 이제 가서 삼년 살고 또 와서 복학을 허니까 이제 졸업허겐 뒈니까 ᄒᆞᆫ 스물일곱 뒈불엇주.
+./filelists/wavs/130.wav|	중학교, 고등학교 졸업허게 뒈니까.
+./filelists/wavs/131.wav|	그 새에 쫌 일찍 결혼헤가지고 그때는 우리가 스무한 살에 결혼을 헷는데, 결혼헤서 학교에 다녀도 일체 아무도 몰랏어.
+./filelists/wavs/132.wav|	우리 집의 사름이 상당이 고셍 많이 헷주.
+./filelists/wavs/133.wav|	예. 고셍헌 얘기는 우리 여자 삼춘한티 들어보믄 잘 알쿠다예?
+./filelists/wavs/134.wav|	부모님은 어떤 일을 하션마씨?
+./filelists/wavs/135.wav|	아버진 사삼에 돌아가셧수다마는.
+./filelists/wavs/136.wav|	이제 그러면서 살다가 이제 돌아가셧고.
+./filelists/wavs/137.wav|	아부진 사삼 때 돌아가셧고 어무니는 한 멧 년, 한 십 년 넘엇구나. 이제 ᄒᆞᆫ 십 년 넘고.
+./filelists/wavs/138.wav|	게민 어머니는 농사만 지으면서 살아시쿠다예?
+./filelists/wavs/139.wav|	어릴 때 놀앗던 기억은, 어떤 놀이 허멍 노는 거 기억남수가?
+./filelists/wavs/140.wav|	어린 때는 이 그게 제기차기.
+./filelists/wavs/141.wav|	이제 그 일본 사름들이 그 훈련 가리키는 거 봐서 그 전쟁놀이.
+./filelists/wavs/142.wav|	연날리기 ᄀᆞ튼 건 안허고마씨?
+./filelists/wavs/143.wav|	연날리기야 당연이. 건 뭐 아이서부터 어린아이부터 노인덜까지도 다 연을 날렷으니까.
+./filelists/wavs/144.wav|	게고 연 만드는 분덜은 그 ᄒᆞᆫ 멧 분. 잘 만들어야 뒈니까. 잘 떠야 잘 뜨게 만드는 사름은 그 잘 만드는 사름이니까.
+./filelists/wavs/145.wav|	예. 게문 우리 삼춘은 연 잘 만드는 사람 축에.
+./filelists/wavs/146.wav|	아니, 난 아무 것도 못허는 사람.
+./filelists/wavs/147.wav|	아이고, 공출 그냥 그건 말도 못헤서마씀.
+./filelists/wavs/148.wav|	이제 자기 그 배당량을 못 바치면 그냥 그 관청에, 우린 어려부니까 와서 그냥 막 그 야단허는 것만 알지. 뭐 별 거세긴 나가 직접 느끼진 못헷으니까.
+./filelists/wavs/149.wav|	예, 뭐 어무니네나 아부지네나 ᄀᆞᆮ는 소린 안 들어봔마씨? 일제 때 어 떤 공출허젠 허난 우리 막 저기 고셍헷저.
+./filelists/wavs/150.wav|	그쪽에 가서 사다가 먹으면서 연명허고.
+./filelists/wavs/151.wav|	음, 먹을 ᄊᆞᆯ들을 부족허니까 감저 먹언 산 거라예?
+./filelists/wavs/152.wav|	어떵 아버지도 돌아가셧덴 허던데 많은 고셍을 헤실 거 닮은데예?
+./filelists/wavs/153.wav|	에, 그걸 가젼 거 ᄒᆞᆫ 반 병, 지금 오벡 시시 ᄒᆞᆫ 이벡 오십 시시 정도 뒌 걸 가젼완 허니까 그걸로 그냥 앞뒤만 소독허는 거라.
+./filelists/wavs/154.wav|	오래 ᄒᆞᆫ 멧 ᄃᆞᆯ 살아가니까 그대로 이제 회복뒈연.
+./filelists/wavs/155.wav|	이제 ᄎᆞᆷ 우리 나 동셍, 여동셍허고 남동셍 잇는데 남동셍은 걷도 못허는 거 이제 그냥 그 기어 다닐 때에 이제 업언에 그냥 ᄎᆞᆷ 동셍 키우고.
+./filelists/wavs/156.wav|	허허. 할머니 하르버지가 같이 내려가니까 에 할머니 하르버지 의지 허곡 어머닌 또 환자라 놓고 허니까 뭐 못허고 경 헤연.
+./filelists/wavs/157.wav|	에, 경허난에 그것이 예를 들엉근엥에 이디서 어디 옛 어른 말이 먹 기 싫은 음식은 못 먹지마는 입기 싫은 옷은 입어야 헌다는 말이 거기서 느꼇습니 다.
+./filelists/wavs/158.wav|	어떵 헨 느껴신고 허니까 한겨울이라고 옷이 없으니까 반즈봉 입고 옛날은 살마다라고 헷는데 그거 ᄒᆞ나 입고 이제 성안 시내.
+./filelists/wavs/159.wav|	또 왓다갓다허고, 그렇게 허면서 무신 거 ᄎᆞᆷ 필요헌 거 이시민 그디 강 사오곡 여기서 또 가졍가근엥게 ᄑᆞᆯ 것도 제대로 엇지만은 ᄑᆞᆷ도 허곡.
+./filelists/wavs/160.wav|	경허멍 살아십주. 그때 그 저 말론 어떻게 형용을 제대로 헐 수가 엇 어양.
+./filelists/wavs/161.wav|	겪은 마음, 그 밖으로 표현헐 수 없는 게 ᄎᆞᆷ 그건디.
+./filelists/wavs/162.wav|	예, 맞습니다. 결혼은 연애결혼헷수가? 중매결혼헷수가?
+./filelists/wavs/163.wav|	아 어떵 누게가 중매헤연에 어떵 결혼헌 거우과?
+./filelists/wavs/164.wav|	여자 어른덜도 열여덟 이상이민 결혼덜 헷고.
+./filelists/wavs/165.wav|	음, 우리 여자 삼춘허고 나이는 멧 살 차이마씨?
+./filelists/wavs/166.wav|	으. 연상, 저 두 살 우에.
+./filelists/wavs/167.wav|	좋아. 게고 죽을 때도 남자가 빨리 죽잖아.
+./filelists/wavs/168.wav|	게민 웃사람 허민 거의 거즘 비등비등허게 간다 이거지.
+./filelists/wavs/169.wav|	음. 에 그때는 그런 거 저런 걸 몰란 그자 무조건 갓는데 지금 와서 셍각해보니까 그런 뭣도 잇드라 이겁주.
+./filelists/wavs/170.wav|	게난 싸울 일은 엇어시쿠다예?
+./filelists/wavs/171.wav|	어째든 이 뭐인가 아웅다웅해야 가정이 형성되는 거지.
+./filelists/wavs/172.wav|	예, 맞수다. 사주는 봣수가? 게믄, 중매결혼헐 때에?
+./filelists/wavs/173.wav|	예. 건 어른덜이 허는 거니까.
+./filelists/wavs/174.wav|	게난 그 사주 본 것도 예를 들엉근엥에 우리 집사름허고 난 큰 수화 거든. 그게. 에 수화. 경헨 안 뒌덴.
+./filelists/wavs/175.wav|	안 좋다 헐 건디. 그 사람덜이 서로가 얼마큼 참느냐, 얼마큼 배려허 느냐 거기에 매달린 거고.
+./filelists/wavs/176.wav|	사주가 좋다 궂다 헤도, 견디 지금까지 살면서 딱 나가 ᄒᆞ나 그 뭐헌 것이 내궁합 웨궁합허는데 그 사주보는 건 외궁합을 보는 거고,
+./filelists/wavs/177.wav|	내궁합만큼은 맞아야 후손들이. 내궁합 안 맞으민 후손은 없어.
+./filelists/wavs/178.wav|	으음. 그게 더 중요헌 겁주. 그 혼수품 할 때 그때는 너무 어려울 때 난 하긴 허지만 혼수나 결혼 예물로 헤갖고 뭐 우리 여자 삼춘한테 준 건 엇수가?
+./filelists/wavs/179.wav|	게도 그 결혼헐 때 뭐 헙디가, 게믄?
+./filelists/wavs/180.wav|	경 옷 정도 그자 그땐 헤주난.
+./filelists/wavs/181.wav|	이 치마저고리덜. 무슨 ᄄᆞᆫ 뭐 엇엇어.
+./filelists/wavs/182.wav|	예. 게영 무신 저고리를 헤신고?
+./filelists/wavs/183.wav|	여자 삼춘이 알아야 뭐 호박단이여 뭐 뉴똥이여 이런 말 헐 건디양?
+./filelists/wavs/184.wav|	글쎄, 난 뭐가 뭔지 모르고. 지금도 몰라.
+./filelists/wavs/185.wav|	아아, 그 혼인은 어디서 헷수가?
+./filelists/wavs/186.wav|	집에서? 게민 이 집은 옛날부터 쭉 살아온 집마씨? 아버지 때.
+./filelists/wavs/187.wav|	아아, 사삼사건 후에. 결혼은 언제 헌 거라마씨?
+./filelists/wavs/188.wav|	결혼은게 사삼사건 바로 끗나면서.
+./filelists/wavs/189.wav|	음, 그때 새 집의서 헌 거구나.
+./filelists/wavs/190.wav|	겨난 그땐 그, 그 당신 그 저 뭐, 이 지금은 예식장에서 예식을 허지 마는.
+./filelists/wavs/191.wav|	그때 그 구식으로서는 친연이라고 헤여. 그대로 영 허연 서로덜 절허 고 이 표주박 끈 무꺼서 이제 그 표주박에 술 서로덜 이렇게 먹고.
+./filelists/wavs/192.wav|	아이, 결혼사진 찍은디, 게메 이사헤연 뎅기단 보난 어디덜 다 가부 런 ᄂᆞ시 ᄎᆞᆽ질 못허연.
+./filelists/wavs/193.wav|	음, 아까 우리 여자 삼춘은 가멜 탕 왓젠 허고 삼촌은?
+./filelists/wavs/194.wav|	아, 그땐 사모관대 아년 사람도 하신디예?
+./filelists/wavs/195.wav|	그 대신 그 저 마을 에, 저 하인덜엔 헷지, 그때는.
+./filelists/wavs/196.wav|	동넷일 보는 사름 보고. 음, 그 사름덜이 이제 가마덜 메고 이제 ᄆᆞᆯ 끌고.
+./filelists/wavs/197.wav|	이제 막 그 중간에 이제 그렇게 못헤봐서 치년, 치년덜 못헌 사름, 못헤본 사름덜은 그냥 다시 장게가구정 허덴 그냥 뭐.
+./filelists/wavs/198.wav|	게난 표주박허고 이제 술 먹는 걸 걸 이제 친연이렌 허는 거라마씨?
+./filelists/wavs/199.wav|	여기 상 이렇게 놓고 상 차려놘에 이제 그 저 지금은 주롄데 그 집 례.
+./filelists/wavs/200.wav|	집례가 전부 이렇게 헙서, 저렇게 헙서, 그게 그 저 구령. 홀기.
+./filelists/wavs/201.wav|	음, 게난 그 예식 자체를 친연이렌 허는 거구나예?
+./filelists/wavs/202.wav|	예식 자체를예, 신혼살림은 어디서 헌 거라마씨, 게믄?
+./filelists/wavs/203.wav|	어디 여행이엔 헌 것도 엇고, 그때는 씨집오면은 신랑 집에서 하루 저녁 자고.
+./filelists/wavs/204.wav|	그 뒷날은 신부 집에 가는 거라.
+./filelists/wavs/205.wav|	게난 우시라고 헤가지고 이 상객.
+./filelists/wavs/206.wav|	상객덜은 이제 결혼, 잔칫날, 잔칫날 서로 인사덜 허고 뭐 어쩌고 허 는데.
+./filelists/wavs/207.wav|	그쪽 부모님이나 이쪽 부모님은 만날 시간이 없으니까.
+./filelists/wavs/208.wav|	이제 그 뒷날 거기 갈 때 같이 가서 인사허고, 또 그 다음날 신랑집 에 올 때에 와서 같이 인사허고.
+./filelists/wavs/209.wav|	예, 우리 여자 삼춘 올 때 뭐헹 와십디가? 혼수렌 헹은에.
+./filelists/wavs/210.wav|	혼수게 궤허고 이불허곡게 보선덜 줘근에 줘놓고 헤근에 옛날은 그 거민 아주 잘 ᄎᆞᆯ련 온 거.
+./filelists/wavs/211.wav|	궤 가졍 오믄 잘 ᄎᆞᆯ령 온 겁주예? 이불은 멧 채나 헨 완마씨?
+./filelists/wavs/212.wav|	아이들은 오 남맨데 삼남 이녀.
+./filelists/wavs/213.wav|	음, 여자 삼춘한티 물어봐야 뒐 게 여기 나왓구나? 자식들 결혼은 다 시켠마씨?
+./filelists/wavs/214.wav|	어떵 어떵 허여마씀, 이제 큰ᄄᆞᆯ은 연예헨 가버리고.
+./filelists/wavs/215.wav|	이제 서울 가버리고. 그 다음은 큰아덜 ᄑᆞᆯ아얄 건디 큰아덜도 그 연극영화과 다니단에 거기서 안 사람허고 헨에 이제 서로 뭐허게 되고.
+./filelists/wavs/216.wav|	또 둘째아덜도 이제 서울서 이제 만난에 이제 그 양녕대군 후예.
+./filelists/wavs/217.wav|	에, 만나서 이제 결혼헤엿고.
+./filelists/wavs/218.wav|	이 족은아덜은 또 여기서 결혼허고. 또 작은딸은 것도 연예헨에.
+./filelists/wavs/219.wav|	저 어디 직장에 다니단에 저 뭣고, 그 서울 군인이 하필 제주에 그 짝이 아마 짝을 ᄎᆞᆽ아서 온 게 같애. 그걸 보면.
+./filelists/wavs/220.wav|	인연 ᄎᆞᆽ안. 여기 완에 그 근무허단에 서로 만난 결혼헨 가불고.
+./filelists/wavs/221.wav|	그렇다고 보면, 마 그런대로 놈보단 빨리 처리헨.
+./filelists/wavs/222.wav|	예, 게난 여기 족은아들이 젤 효잔게예? 옆에서 사는 아들이.
+./filelists/wavs/223.wav|	어, 옆에 살고, 지금 큰아들도 내려완에.
+./filelists/wavs/224.wav|	이제 셋아들은 뭐 저 지금 안양 살암주마는.
+./filelists/wavs/225.wav|	여기 제주도에는 이제 큰아들하고 족은아들 사는 거구나예?
+./filelists/wavs/226.wav|	그 다음 며느리하고 사위에 대헹은에 뭐 ᄀᆞᆯ 말 잇으믄 ᄀᆞᆯ아줍서?
+./filelists/wavs/227.wav|	며느리허고 사위는 글쎄, 뭐.
+./filelists/wavs/228.wav|	예. 게니까 육지 사위덜 헤부니까?
+./filelists/wavs/229.wav|	육지 사위덜 헤도 ᄎᆞᆷ 잘 헤여.
+./filelists/wavs/230.wav|	아, 뭐, 왕 뜯어가지 아녀고, 쫌 저 영 무시거 가끔 보내주곡 허민 그게 제일 좋은 거주.
+./filelists/wavs/231.wav|	자꾸 옷이라도 ᄒᆞᆫ 불썩 일 년에 ᄒᆞᆫ 번씩 보내주면 경 말렌 헤도.
+./filelists/wavs/232.wav|	그거 말앙 더 자식 자랑헐 건 엇수가?
+./filelists/wavs/233.wav|	글쎄, 자식 자랑은 뭐 큰아, 이제 아이덜이 별로 이제 부모덜 힘 들 이지 안 허연 이제 학교덜 마치고, 뭐 장학생으로덜.
+./filelists/wavs/234.wav|	헌 거주. 게난 이제 내중에 결혼까지덜 헨 사니깐, 뭐 큰아덜쯤은 인 칙에도 말헷주마는 마 예술 계통에서 뭐 제주도에선 에 마 손꼽으민 손꼽을 만헌.
+./filelists/wavs/235.wav|	그 뭣엔 연기로 헤서, 연기.
+./filelists/wavs/236.wav|	경허난 지금은 ᄎᆞᆷ 그 몸이 안 좋아서 이젠 놀고 잇지마는.
+./filelists/wavs/237.wav|	오십 대 후반이 뒈불고 허니까.
+./filelists/wavs/238.wav|	이제 전국연극제에서 개인 대상은 제주도에서 처음 일차.
+./filelists/wavs/239.wav|	또 가이가 가리켜서 다시 또 ᄒᆞᆫ 사름이 개인 대상 받앗어.
+./filelists/wavs/240.wav|	가이가 가리켠에 개인 대상 받으난 이제 제주도 안네 두 사름벳기 없어. 연기 개인 대상.
+./filelists/wavs/241.wav|	최불암네 이런 분덜이 전부 완에 육지서 심사헨에.
+./filelists/wavs/242.wav|	제주도 온 지는 얼마 뒌마씨?
+./filelists/wavs/243.wav|	ᄒᆞᆫ 십오 년 뒘실 거라. 이제.
+./filelists/wavs/244.wav|	경허난 그 최불암 씨 그분덜이 제주도 연극 보고 깜작 놀란 여기까 지 갓냐고, 아주 감탄허더라고.
+./filelists/wavs/245.wav|	성우, 성우도 허엿고, 아나운서도 허엿고, 가이가.
+./filelists/wavs/246.wav|	연극 헤엿고, 뭐 그런 정도. 지금 여기 테레비에 나와 가민 그 거기 서 서울 잇인 때에 저 나신디 선생님 선생님 허던 아이우다. 저.
+./filelists/wavs/247.wav|	지금 큰아들은 미대 다념실 거라. 제주대학.
+./filelists/wavs/248.wav|	예. 삼춘 밧일도 하영 헷지양?
+./filelists/wavs/249.wav|	아이고, 밧일도 허고 커올 때 고학허젠 허난에.
+./filelists/wavs/250.wav|	세탁소에 간 양복점에 처음 간 이제 경허난 양복점에 잇어나난에 이 젠 옷 꿰어 입는 건 그냥 미싱 ᄒᆞ나 놓민 그냥.
+./filelists/wavs/251.wav|	뭐 걸리질 안허여. 그자 ᄒᆞ나 또 멘들앙 입는 것도 뭐 거세기허곡. 세탁소로.
+./filelists/wavs/252.wav|	벡훼 알 사름, 이 사름도 몰를 걸.
+./filelists/wavs/253.wav|	예. 무사 옛날이야게 다 벡훼로 헤근엥에 벽 바르지 아녀수과?
+./filelists/wavs/254.wav|	이 집을 벡훼레 전부 저 안 도빌 헷어.
+./filelists/wavs/255.wav|	저, 이 밖에 또 이런 축 우에덜은 전부 그 하얀 걸로 헷는데 이제 그것도 만들엇고.
+./filelists/wavs/256.wav|	그자 그거 저거 허면서 또 벽돌도 많이.
+./filelists/wavs/257.wav|	만들긴 ᄄᆞᆫ 사름 거 육지 분들이 완에 만들고, 그 굽는디.
+./filelists/wavs/258.wav|	경허단 그냥 여기 밀감허기 시작허니깐 여기 완에 이제 밀감에.
+./filelists/wavs/259.wav|	게도 할머니네 할아버지네 농사짓젠 허민 도웁긴 헤실 거 아니라양?
+./filelists/wavs/260.wav|	예, 게믄 보리농사부터 ᄒᆞᆫ번 저기, 아, 보리농사 전에예 밧일 허면은 어떤 일들이 잇어신고예? 예전에는.
+./filelists/wavs/261.wav|	예전에는 밧 허면은 이제 노는 밧은 봄에 갈고.
+./filelists/wavs/262.wav|	갈앗다가 이제 이 즉 말허면 풀이 성헌 거 그거 그냥 덮으면은 거름이 뒈니까.
+./filelists/wavs/263.wav|	이제, 이제 갈아, 갈아 놧당 번험이라고 헌 건디.
+./filelists/wavs/264.wav|	이제 경허멍 그거 저거 보리허곡 조허곡 콩허곡 이 대개 그.
+./filelists/wavs/265.wav|	예. 경 허영 이 저 가는 거라예. 게믄 보리 ᄒᆞᆫ번 갈아보쿠다예?
+./filelists/wavs/266.wav|	보리농사 짓젠 허면 뭘 준비헤신고예?
+./filelists/wavs/267.wav|	보리농사를 허젠 허면 걸름을 준비해살 거.
+./filelists/wavs/268.wav|	게난 내가 조꼼 그 곡식을 잘 헤먹젠 허면 보릴 걸름을 놔야 뒈곡.
+./filelists/wavs/269.wav|	놔야고. 이제 그걸 거름이 부족허면은 이제 밧이 멧 개 이시민 돌려 가멍 놔야 뒈고. 집에는 돼지 키우곡 소 키우곡 헤야 되니까.
+./filelists/wavs/270.wav|	게영 처음에는 처음 살림헐 때는 소 돼지도 힘드니까.
+./filelists/wavs/271.wav|	그때는. 지금은 요즘 그렇게 산덴 허민 어멍, 어머니 아버지신디 그 냥 뭐 사줍서 뭐 사줍서 허주마는 그때는 그게 경 통허들 아녓으니까.
+./filelists/wavs/272.wav|	그렇주마씨. 그 게난 그런 걸름 준비를 헤야될 거 아니라예.
+./filelists/wavs/273.wav|	그 걸름은 어떤 식으로 마련헨마씨?
+./filelists/wavs/274.wav|	이제 외양간에선 쉐가 만들고.
+./filelists/wavs/275.wav|	그거 봄나민 내영근엥에 이제 마당에 쌓아두면은 거기서 터가지고.
+./filelists/wavs/276.wav|	이제 후숙이라고 헐까. 이제 그렇게 뒈면은 이제 소거름허고 돼지거 름하고 징징이 이렇게 놔서 이제 이렇게 허면은 내중에 이제 걸 뿌수민 다 저 혼합 믹서가 뒐 거니까.
+./filelists/wavs/277.wav|	바당에 강은에 뭐 듬북 ᄀᆞ튼 거?
+./filelists/wavs/278.wav|	듬북 놓구젠 허민 헤변 사름한티 밧을 빌리는 거라.
+./filelists/wavs/279.wav|	게난 즉 말허민 염분 보충인데 그게. 지금 와서 셍각허면은. 옛날은 그 염분은 염분인디 뭐인지 그걸 모르니까.
+./filelists/wavs/280.wav|	소곰. 소곰만 그때 소곰 살 돈도 없기야 없지마는 소곰만 뿌려도 뒈 긴 뒈는 건디.
+./filelists/wavs/281.wav|	이제 그걸 이제 학술상으로 어떻게 이건 이거고 저건 저거고 그때 그분덜이 걸 일러주지 안허니까.
+./filelists/wavs/282.wav|	이건 듬북 놔야 잘 뒈는 거.
+./filelists/wavs/283.wav|	으, 그 보리는 언제 누가 어떵 가는 거마씨? 보리는 언제 그 가는 과정을 ᄀᆞᆯ아줘 봅서.
+./filelists/wavs/284.wav|	예. 게난 그 밧 갈앙 뭐 씨 뿌리기부터 헹예 보리부터 ᄒᆞᆫ번 갈아봅 서?
+./filelists/wavs/285.wav|	아, 보릴 조크르나 콩그르에.
+./filelists/wavs/286.wav|	걸 이름이 끄슬퀴허니깐 저 섬피엔도 ᄀᆞᆮ고.
+./filelists/wavs/287.wav|	이제 그 푸지게, 푸지게엔도 허곡.
+./filelists/wavs/288.wav|	그 ᄒᆞ나 가지고 이름이 뭐 세 가지.
+./filelists/wavs/289.wav|	예, 예. 이 동네에서는 주로 뭐렌 ᄀᆞᆯ앗수가? 그런?
+./filelists/wavs/290.wav|	게영 끗으면은 씨가 ᄆᆞᆫ 흑허고 버무려지니까.
+./filelists/wavs/291.wav|	이제 새싹 나고 허면서 이제 커서.
+./filelists/wavs/292.wav|	으, 이제 익으면은 그거 ᄎᆞᆷ 비여놩.
+./filelists/wavs/293.wav|	음. 그때 태작은 뭘로 헤신고예?
+./filelists/wavs/294.wav|	저 가상 터는 거옌 허는 게 잇엇낫어. 틈틈이.
+./filelists/wavs/295.wav|	무꺼가지고 돌에 그냥 매여치는 거.
+./filelists/wavs/296.wav|	도께질허는 게 잇고. 다시 홀테.
+./filelists/wavs/297.wav|	홀테 헤서 이제 그 보리 홀탕근엥에 메탁기 왕 이제 그거 털고.
+./filelists/wavs/298.wav|	음, 여기도 가상 턴덴 말을 헷수가?
+./filelists/wavs/299.wav|	아, 여기서도 가상 턴다는 말도 헷어예? 그 보리씨 뿌릴 땐 어떵 헷수과?
+./filelists/wavs/300.wav|	보리씨 뿌릴 땐 사람 힘으로 헤영 그냥 쭉쭉 던지민 그냥, 힘 잇게 던지면 이제 골고로 가는 거고.
+./filelists/wavs/301.wav|	아, 게민 삼춘네는 거름에 보리씨를 서껑은 안 헤봔마씨?
+./filelists/wavs/302.wav|	에 여긴 이 농촌지도소에서 이제 그 수확량을 따줄 때에.
+./filelists/wavs/303.wav|	더 수확이 많게 어떻게 허느냐고 이제 나가 그때는 그 지도사 활동 도 많이 헷으니까.
+./filelists/wavs/304.wav|	이제 허니까 삼양 관내보단 더 나겔 어떵 헐 말이우꽈? 우린 원 더 나게 헐 재준 엇수다.
+./filelists/wavs/305.wav|	이제 땅덜이 좋아. 겨고 여기도 이 도련도 동쪽 땅허고 서쪽 땅허고 틀려.
+./filelists/wavs/306.wav|	같은 분량을 놓면은 무게가 틀려.
+./filelists/wavs/307.wav|	ᄒᆞᆫ 뒈 갖당 탁 놩 저울이면.
+./filelists/wavs/308.wav|	이쪽 건 무게가 그것에 요디 거 섯동네 거 떵 그 양을 허민 이쪽이 동쪽에 건 퍼야.
+./filelists/wavs/309.wav|	동쪽 게 더 무게가 나가예? 아아, 그럼 여기는 밧을 ᄒᆞᆫ 평을 저기 멧 말지기?
+./filelists/wavs/310.wav|	땅이 좋앗네예. 벡오십 평이면 정말 땅이 좋은 거네. 그 다음에 보리 종류 어떤 거 이신 거 알아지쿠과?
+./filelists/wavs/311.wav|	에, 대개 그거 세 개고. 중간에 떡보리가 들어와낫어. 검은 흑보리.
+./filelists/wavs/312.wav|	아, 게믄 상웨, 그 떡도 그걸로 헷수가?
+./filelists/wavs/313.wav|	아, 거 떡보리렌 허는데 이제 요즘은 안 하고예.
+./filelists/wavs/314.wav|	그런 것덜은예? 보리밧 여기도 밟기 헙니까?
+./filelists/wavs/315.wav|	보리밧 밟는 디야 그거야 뭐 당연히 그 저, 뭣고? ᄒᆞ는 사람도 잇 고.
+./filelists/wavs/316.wav|	에 멩심 아년 사름은 그대로 내버리고.
+./filelists/wavs/317.wav|	이제 산테엔 헹근에 나무 그 통나무에 적당헌 그 뭘 해서 이 발.
+./filelists/wavs/318.wav|	산테로 헹은에 밟아서예? 여기 뭐 돌테나 낭테 이런 거는 안 하고?
+./filelists/wavs/319.wav|	아, 낭테가 그거라예. 그 다음에 보리밧 검질은 멧 번 멥니까?
+./filelists/wavs/320.wav|	세 번 정도 메사주. 싀 번.
+./filelists/wavs/321.wav|	검질덜은 어떤 검질덜 나낫수가?
+./filelists/wavs/322.wav|	여하간 보리를 제외하고는 벨헌 양귀비가 잇어도 건 다 뽑아야 뒈니까.
+./filelists/wavs/323.wav|	검질 일름들 혹시 알아지는 거?
+./filelists/wavs/324.wav|	우리 여자 삼춘 알 거 닮아.
+./filelists/wavs/325.wav|	에, 아이고, 무슨 웨대우리.
+./filelists/wavs/326.wav|	에, 또 요즘 그 저 비단풀엔 허는 거 뭣고, 저 금전초. 거 이름, 검질 이름 모르겟는디.
+./filelists/wavs/327.wav|	검질 이름. 보리밧듸 허는 거예?
+./filelists/wavs/328.wav|	대우리도 웨대우리도 잇고 그냥 대우리도 잇수가? 건 어떵?
+./filelists/wavs/329.wav|	웨대우린 저 우에 올랑 ᄆᆞᆯ 양식 허는 거. 틀려. 그 밑에서 조그만이 올라오는 거.
+./filelists/wavs/330.wav|	건 웨대우리고. 그냥 일반 대우리는 위로 올라오는 거예?
+./filelists/wavs/331.wav|	보리허고 똑ᄀᆞ치 그냥 올라오는 거.
+./filelists/wavs/332.wav|	그 보리 수확헐 때 보리 그 익으믄예, 익으믄 수확허는 과정까지 한 번 다시 ᄀᆞᆯ아 줍서? 보리 익엉 그 보리 이제 비곡.
+./filelists/wavs/333.wav|	이젠 이제 어느 정도 이제 ᄆᆞᆯ르민.
+./filelists/wavs/334.wav|	이제 집엘 오던가 거 밧데서던가 이제 처음에는 홀테로 그걸 홀타 놩 메탁기가 갓는데.
+./filelists/wavs/335.wav|	이제 그 내중에는 그냥 뭇차 집어놩근엥에 고고리만 그 고고리만 ᄐᆞᆮ 아 아사부런.
+./filelists/wavs/336.wav|	보리 비젠 허면은 준비헤야 뒐 게 잇지 안허우과?
+./filelists/wavs/337.wav|	보리 비젠 허면 호미. 주로 호미 엇엉은 안 뒈주. 낫. 표준어로 낫.
+./filelists/wavs/338.wav|	예, 게난 그 호미도 그냥 가민 안 뒐 거 아니우과? 밧듸 가젠 허면은 그 준비를 허연.
+./filelists/wavs/339.wav|	이제 숫돌엔 허주마는 거 신돌.
+./filelists/wavs/340.wav|	밧듸 아졍가민 그걸로 보리 비곡 조 비곡 콩 꺼끄곡.
+./filelists/wavs/341.wav|	예. 겅 헤영 허고 무끄젠 허면은 무신 거로 무껏수과? 여기는.
+./filelists/wavs/342.wav|	께가 잇어야는데, 건 주로 새.
+./filelists/wavs/343.wav|	새로, 이제 그 저 보리 무끌 샐 놔두엇다가.
+./filelists/wavs/344.wav|	건 놔둿당근에 그걸로 께 데왕.
+./filelists/wavs/345.wav|	으음, 그 산디찍으로 께 데우진 안허고마씨?
+./filelists/wavs/346.wav|	산디찝이 여기 경 많질 아녀난.
+./filelists/wavs/347.wav|	아아, 산디찍은. 산디는 하영 안 간 모양이우다, 여긴예?
+./filelists/wavs/348.wav|	예, 예. 그건 그 저 제사헤여 먹을 거나 조끔 저 허주.
+./filelists/wavs/349.wav|	경 그 많이, 주로 보리덜 많이 헷어.
+./filelists/wavs/350.wav|	음, 그러면 삼춘, 아까 이제 새로 께 헷지, 데왕 헷지 아녀우과? 보리 로도 지냥으로도 무끄진 아념니까?
+./filelists/wavs/351.wav|	그런 께는 무신 께렌 헙니까?
+./filelists/wavs/352.wav|	붙벡이 헌다고 헨에 아메도 붙께렌 허는 모냥이라.
+./filelists/wavs/353.wav|	보리 붙은 그걸로 헤서 여기는 붙께렌 하고예? 알앗수다. 그 다음에 이제 보리도 저기 도리께질, 도께로도 헙니까? 보리도.
+./filelists/wavs/354.wav|	아 도께로도 허고예. 아 보리쌀은 어떵 장만헤신고예? 옛날예.
+./filelists/wavs/355.wav|	옛날은 그 저 돌팡에에서 이제 물 적졍 그 자꾸 굴령, 영 돌려 가면 그게 이 견, 첸 벗어지면 속에 ᄊᆞᆯ만 뽑앗는데.
+./filelists/wavs/356.wav|	우리가 크기, 크기 시작허니까 방앗간.
+./filelists/wavs/357.wav|	방앗간에 아적 가져가민 그냥 기계에서 싹.
+./filelists/wavs/358.wav|	음. 어렷을 때 게믄 그 돌팡에는 허는 건 봐봣구나예?
+./filelists/wavs/359.wav|	나도 ᄀᆞ치 강근엥에 그 저 연자방아 돌려사주.
+./filelists/wavs/360.wav|	여기는 돌팡에렌 허는 거라예. 그 돌팡에 헐 때 무사 사람으로 돌리는 것도 잇주마는 옛날에.
+./filelists/wavs/361.wav|	ᄆᆞ쉬 엇이면 사름이 엇은 때 ᄆᆞ쉬도 허곡. 편허게 허기 위헤서 이제 ᄆᆞᆯ이나 쉐로도 허곡.
+./filelists/wavs/362.wav|	음. 그 이 동네도 ᄋᆢ라 군데 잇어실 거라예?
+./filelists/wavs/363.wav|	이, 이, 농, 농사에 주로 전력허던 동네라놔서.
+./filelists/wavs/364.wav|	음, 그거를 그냥 뭐 ᄆᆞᆯᄀᆞ레니?
+./filelists/wavs/365.wav|	ᄆᆞᆯᄀᆞ레렌도 허고 돌팡에엔도 허고예?
+./filelists/wavs/366.wav|	아아, 그 다음에 이제 보리허면 보리ᄊᆞᆯ로 헤갖고 헤먹는 건 뭐 잇어신고예?
+./filelists/wavs/367.wav|	보리떡도 헤 먹고 밥 헤 먹고.
+./filelists/wavs/368.wav|	보리상웨예? 예전에 여기도 밀ᄏᆞ르덜도 갈아신가마씨?
+./filelists/wavs/369.wav|	갈아낫주마는 그 저 수확이 많지 아녀 놓니까.
+./filelists/wavs/370.wav|	지금ᄀᆞ치 비료가 잇엉근엥에 잘 헤주면 것도 뭐허주마는 비료가 어렵고.
+./filelists/wavs/371.wav|	비료 나온 지가 오래질 아녓어. 여기 우리 ᄆᆞ음대로 쓰기 시작헌 디가. 에, 우리 어린 때엔 비료 ᄒᆞᆫ 포만 구헤지민 그게 그냥 어디 강은에 금싸라기 구 헤진 거만이.
+./filelists/wavs/372.wav|	체는 그거 푸는체질을 허던가 아니면 체질을 허던가 허영 그 체가 나오멘 그건 주로 도새기 양석.
+./filelists/wavs/373.wav|	쉐도 먹고예? 그, 그것도 굵은체가 잇일 거고. 예, 그 다음 ᄀᆞ르가 잇일 거 아니우과?
+./filelists/wavs/374.wav|	ᄀᆞ레에, ᄀᆞ레에 그 맷돌에 ᄀᆞᆫ 때에, 이 ᄀᆞ레에 ᄀᆞᆫ 때에 그게 이 저 ᄌᆞᆷ진 거 훍은 게 나오주. 그건 주로 그건 사름덜이 먹고.
+./filelists/wavs/375.wav|	거기서 헌 건 짐승덜 키우고.
+./filelists/wavs/376.wav|	음, 그렇게 나온 ᄀᆞ를은 뭐렌 ᄀᆞᆯ아마씨?
+./filelists/wavs/377.wav|	체엔 말고도 또 허지 아념니까? 쉐 멕일 때 촐에도 버무령 주고.
+./filelists/wavs/378.wav|	게메, 아 그땐 체 버무령 주멘.
+./filelists/wavs/379.wav|	체 버무령. 혹시 등게ᄀᆞ르 이런 말은 안 헙디가?
+./filelists/wavs/380.wav|	등게에 뭐여 그건 저 여기서 별로 ᄀᆞᆮ진 아녓어.
+./filelists/wavs/381.wav|	가끔 ᄀᆞᆮ는 사름도 잇긴 잇엇주마는.
+./filelists/wavs/382.wav|	그건 그냥 체 버무령 주민 좋아.
+./filelists/wavs/383.wav|	체 버무령 주믄 좋아예. 예. 보리 농사허멍 잊어불지 못허는 경험, 기억 같은 거 엇수가? 뭐 고셍을 헷든 아니면 재미잇엇든 보리밧듸 강 연도 날려 봣 을 거고.
+./filelists/wavs/384.wav|	거 오니 다스께. 거 일본말이라.
+./filelists/wavs/385.wav|	그거 밧듸 강 허면 아이덜은 선생 그거 헐 때엔 선생 밧듸 가지민 안 헤불어.
+./filelists/wavs/386.wav|	게민 여기선 주로 ᄒᆞᆯ 때에 연 종이덜을 사당 줘.
+./filelists/wavs/387.wav|	아이덜신디 주멘 그, 그 밧듸 강 연 띄우렌 허영.
+./filelists/wavs/388.wav|	경 헤야주. 경 안 허민. 그.
+./filelists/wavs/389.wav|	그 보리 ᄀᆞ시락도 쓸모가 크지 아녓수가? 보리낭도 쓸모가 하실 거고.
+./filelists/wavs/390.wav|	보리낭은, 보리낭은 퇴비 만들고.
+./filelists/wavs/391.wav|	이제 흑질헐 때에 주로 쓰고.
+./filelists/wavs/392.wav|	ᄀᆞ시락은 아궁이에 놩근엥에 굴묵 짇고.
+./filelists/wavs/393.wav|	이제 굴묵 짇으민, 굴묵 짇엉근엥에 도 쉐똥 헤당 탁 막아주민 그냥 ᄒᆞᆫ 이틀 끄떡엇이 뭐허곡. 알아져?
+./filelists/wavs/394.wav|	아, 흑과 흑이 연결이 좋고, 이제 그게 그 어쨋든 그 흑 힘이.
+./filelists/wavs/395.wav|	그걸로 저 쉽게 말허면 세멘트 헐 때 철근 놓는 거나 마찬가지.
+./filelists/wavs/396.wav|	그런 식으로 꼭 수세를 놩은에. 이 그신새도 수세로 놔낫수가?
+./filelists/wavs/397.wav|	아니. 그신샌 지들케벳기 아녓어.
+./filelists/wavs/398.wav|	지들케론 지들커허고예? 여기도 이제.
+./filelists/wavs/399.wav|	이 두터우면 그건 걷어내여 뒁근엥에 이제.
+./filelists/wavs/400.wav|	지들커허고 그 우론 새로 더프고.
+./filelists/wavs/401.wav|	알앗수다. 여기 조 하영 헷덴 허난 조도 ᄇᆞᆯ려봅주예.
+./filelists/wavs/402.wav|	조 ᄇᆞᆯ리는 디서 그 ᄆᆞᆯ 모는 소리 쉐 모는 소리 그걸 못허여.
+./filelists/wavs/403.wav|	게난 경허민 하르버님 이실 때예 소리허멍 몰라. 허여도. 난 그건 아녀봣어.
+./filelists/wavs/404.wav|	노래는 잘 못 불럼구나양? 다른 노래는 잘 불를 거 닮은디. 연예인 아들 연기허는 아들 아까. 연기렌 헨 게마는 이름도.
+./filelists/wavs/405.wav|	거기도 역시 준비는 ᄎᆞᆷ, 거 저 그 보리에 대개 거름 놧주. 조 이 여 름 농사엔 거름덜을 잘 안 놔.
+./filelists/wavs/406.wav|	거름덜을 잘 안 놓고, 내중에 나온 후에 비료나.
+./filelists/wavs/407.wav|	그냥 씨를 뿌령은에 허는 거라마씨?
+./filelists/wavs/408.wav|	씨 뿌령 이제 그 끄슬퀴로 끗엉.
+./filelists/wavs/409.wav|	그 다음에 ᄇᆞᆯ리잖아예? 그 ᄇᆞᆯ릴 때는 어떤 식으로 ᄇᆞᆯ립니까?
+./filelists/wavs/410.wav|	ᄇᆞᆯ릴 땐게 쉐나 ᄆᆞᆯ이나 허영 어려려허멍. 쉐 ᄆᆞᆯ 몰멍 그냥 ᄇᆞᆯ리는 거주.
+./filelists/wavs/411.wav|	아, 그 테, 테 허는 사름은 텔 빌엉 ᄇᆞᆯ리고.
+./filelists/wavs/412.wav|	테엔 허민 ᄆᆞᆯ 수정 많은 이.
+./filelists/wavs/413.wav|	잇는 사람. 그 사름을 빌엉근엥에 ᄇᆞᆯ리곡, 경 아녀민 그 그냥 밧갈쉐 집의서 허는 거옌 그자 영.
+./filelists/wavs/414.wav|	거기에 이제 끄실퀴 헤갖고 이제 ᄀᆞ치 허는구나예? 게민 아까 조 여기는 조팟이렌 헙니까? 조왓이렌 헙니까? 조밧이렌 헙니까?
+./filelists/wavs/415.wav|	그건 조팟이옌 허곡 왓이옌도 허곡 왓이 밧이난에 건 두 가지.
+./filelists/wavs/416.wav|	조왓이렌 허여마씨? 조왓은 아녀고 잘 조팟.
+./filelists/wavs/417.wav|	예, 조팟이 대부분 많은 거라예. 조팟 거름은 이제 안 하고. 거는 보 리 거름, 보릿그르에 허는 거우과? 조팟은?
+./filelists/wavs/418.wav|	아, 보릿그르예 허는 거예? 게믄 언제 가는 거우과? 조는?
+./filelists/wavs/419.wav|	조는 봄에. 아, 저 칠월, 칠월 일일을 기헤영근엥에 전 삼 후 삼 허는 거.
+./filelists/wavs/420.wav|	아, 칠월 일일. 게민 그때 칠월 일일은 음력이우과? 양력이우과?
+./filelists/wavs/421.wav|	양력예? 옛날 유월절 그건가?
+./filelists/wavs/422.wav|	견디 난 뭐허니까 이제 그걸 허는데 그 저 유월절 전 삼 후 삼 헹근에 헌덴 헌디 칠월 ᄒᆞᆫ 사오일 뒈는디.
+./filelists/wavs/423.wav|	이제 칠월 일일을 기허민 쪼꼼 옛날보단 ᄒᆞᆫ 메칠 빨른 거지.
+./filelists/wavs/424.wav|	옛날은 유월절 전 삼 후 삼 허잖아예?
+./filelists/wavs/425.wav|	또 모밀은 칠월절 전 삼 후 삼 허곡.
+./filelists/wavs/426.wav|	전 삼 후 삼. 게난 옛날은 절기에 따라서 농사들을 이제 지은 거라 예?
+./filelists/wavs/427.wav|	견디 옛날은 절기에 따랑근에 헷는데, 그것을 양력으로 기준헤서 절 기가 나온 걸 몰르니까, 아무도.
+./filelists/wavs/428.wav|	음. 그렇지. 절기는 양력 기준으로 헷지예?
+./filelists/wavs/429.wav|	양력 기준이니까. 이 핼 기준 헌 거기 때문에. 음력은 달을 기준헌 거니까 들엇다 낫다 허는 거고. 에, 나가 이 낫ᄉᆞᆯ 든 후제도 걸 막 홍보헷주.
+./filelists/wavs/430.wav|	으, 양, 절기는 양력이 박아논 날이난 그 양력을 셍각해야 헙니다 허영.
+./filelists/wavs/431.wav|	예. 겐디 뭐 옛날 어른들이야 음력 기준헤영 허니까예. 그 좁씨는 어 떵 준비허고 어떵 뿌렷수가?
+./filelists/wavs/432.wav|	좁씨는 아무 때도, 보리씨도 보리 좋은 보리로 헹 얼마 소요량을 준 비헤둿당 허는 거고, 좁씨도 고고리 좋은 놈으로.
+./filelists/wavs/433.wav|	자기가 쓸 만큼 그 양을 준비해 놧당 뿌리는 거.
+./filelists/wavs/434.wav|	그 좁씨 뿌릴 땐 어떤 식으로 뿌려마씨?
+./filelists/wavs/435.wav|	좁씨 뿌리는 것도 보리씨 뿌리는 것하고 똑같이.
+./filelists/wavs/436.wav|	그자 ᄒᆞᆫ 줌 줴영 그 힘내영 그냥 훈들르 가면 골로로 가는 거.
+./filelists/wavs/437.wav|	게도 옛날에 이 씨 잘 뿌리는 사람들이 잇어예?
+./filelists/wavs/438.wav|	어, 잘 뿌리는 사름은 잇긴 잇주. ᄎᆞᆷ.
+./filelists/wavs/439.wav|	삼춘네는 갈 때 누게가 조씨 삐엿수가?
+./filelists/wavs/440.wav|	뭐 이녁 거 이녁 냥으로덜 허주, 무신 놉 빌엉덜 경 아녀.
+./filelists/wavs/441.wav|	삼춘이, 여자삼춘이 헙니까, 아니면 삼춘이 삐어수가?
+./filelists/wavs/442.wav|	그렇게 하기도 하고 그 다음에 테우리들 빌령도 허고.
+./filelists/wavs/443.wav|	허고, 남테로 허는 사름도 잇고.
+./filelists/wavs/444.wav|	예, 남테로도 허는 사름도 잇고. 혹 여기 돌테도 써봅디가?
+./filelists/wavs/445.wav|	아, 돌텐 안 허고예? 그, 남테 아까 산테 말고 남텐 모양은 어떤 식으로 만들어젼마씨?
+./filelists/wavs/446.wav|	남텐, 어느 정도이 적당한 규격 헤놩 거기에 뿔덜 막 박아놩.
+./filelists/wavs/447.wav|	음, 거는 쉐가 끗이는 거마씨?
+./filelists/wavs/448.wav|	쉐나 ᄆᆞᆯ이나. 뒤에 이제, 그 아까 끄실퀴는 사람이 허고.
+./filelists/wavs/449.wav|	밧 가는 그 끗게, 끗데 그냥 매달앙근에.
+./filelists/wavs/450.wav|	아, 그렇게 헤서 이제 하고예?
+./filelists/wavs/451.wav|	저, 아이고, 그거 쉐, 쉐멍에, 쉐멍에줄, 쉐멍에 멍엔 이거고.
+./filelists/wavs/452.wav|	아, 한줄 끗겡이에 이제 테를 무끄는 거라예?
+./filelists/wavs/453.wav|	아아, 그 다음에 그 조컴질 메는 게 우터잖아예?
+./filelists/wavs/454.wav|	조컴질도 그냥 ᄎᆞᆷ 이디 ᄉᆞᆯ 나민 그냥 여기 다.
+./filelists/wavs/455.wav|	보리검질도 추웡은에 허주마는 조컴질이 더 우털 거 닮아예?
+./filelists/wavs/456.wav|	더웁고. 게난 조컴질은 멧 불 멥니까?
+./filelists/wavs/457.wav|	조컴질도 ᄒᆞᆫ 서너 번 서너 번 메야사주.
+./filelists/wavs/458.wav|	싀불검질 영허잖아예? 게믄 조는 초불검질은 조 소끄는 거우과?
+./filelists/wavs/459.wav|	소끄는 거예? 그 소깟던 얘기 ᄀᆞᆯ아줍서?
+./filelists/wavs/460.wav|	조는 그 소끄는 것사게 그 방벌이는 거난.
+./filelists/wavs/461.wav|	이제 방을 너무 널르민 수확이 덜 날 거곡.
+./filelists/wavs/462.wav|	너미 좁으민 도장뒈영은에 안 좋을 거고 허난. 적당한 거리를 놩 이제 뽑아, 뽑아버리면은 한걸헹근에게 이거 사람도 영 앚아근엥에 박박허게 앚이면 귀찮차녀.
+./filelists/wavs/463.wav|	에, 우 ᄃᆞ투왕. 우 ᄃᆞ투왕 헌디 나가 먼저 크저 나가 ᄆᆞᆫ저 크저 헹근 에 허민 크는 데 힘 다 먹어불엉.
+./filelists/wavs/464.wav|	겨난 그걸 이 한걸허게 소꽈주면은 이제 그런 뭐가 엇는 거.
+./filelists/wavs/465.wav|	도장인디 우 ᄃᆞ툰데 헤여. 우 ᄃᆞ툰데.
+./filelists/wavs/466.wav|	우 ᄃᆞ툰덴. 우 ᄃᆞ툰다. 방 벌리는 거. 방 벌리는. 게난 이렇게 방 벌리는 거 한 번만 더 설명해줍서?
+./filelists/wavs/467.wav|	ᄀᆞ만 잇자. 그걸 어떵, 어떤 식으로 설명허나?
+./filelists/wavs/468.wav|	게난 이제 제대로 클 수 잇게 이런 그 주변을.
+./filelists/wavs/469.wav|	주변에 한걸허게, 한걸허게 뽑아주는 거.
+./filelists/wavs/470.wav|	그거를 이제 자, 방을 잘 벌려사 뒈는 거예?
+./filelists/wavs/471.wav|	으, 방을 잘 벌려사. 벌리. 벌려사 헹.
+./filelists/wavs/472.wav|	예, 방 벌여 이렇게 얘기를 허는구나예?
+./filelists/wavs/473.wav|	소끄는 거랑 같은 걸로 봐도 뒈마씨?
+./filelists/wavs/474.wav|	소꽈서 얘가 잘 자라게 해주는 거. 주변 정리를 해주는 거주게이. 그렇게 해서 뒈면은 조도 이제 수확을 헤얄 거 아니우과?
+./filelists/wavs/475.wav|	가을에 이제 조가 익으면 가을에 비어놓고.
+./filelists/wavs/476.wav|	말리고 이제 고고리, 고고릴 톧아.
+./filelists/wavs/477.wav|	걸 전부. 이제 호미 헤서 이제 고고리 ᄐᆞᆮ아놓민 그거 메탁기에서 허던가 도께로 치던가.
+./filelists/wavs/478.wav|	으음, 도께로 치던가예? 그 고고리, 고고리 ᄐᆞᆮ을 때 웨 우리가 빌 때 는 이런 앞으로 비지마는 이건 꺼꾸로 호미로?
+./filelists/wavs/479.wav|	ᄁᆯᆞ아 앚앙은에 영 밀려야.
+./filelists/wavs/480.wav|	밀리멍 허는 거예? 그게 ᄄᆞ나고예. 그 덩드렁마께 헤영은에 이렇게 헤보진 아녑디가?
+./filelists/wavs/481.wav|	이제 족앙근엥에 그 간단히 그 족은 걸 헐 때에 그거 허는 거주.
+./filelists/wavs/482.wav|	ᄀᆞ렛방석 ᄁᆯᆞ앙근에 영 영 아.
+./filelists/wavs/483.wav|	그건 거 저 그저 조코고리 테작헐 때 보통 도께 써야.
+./filelists/wavs/484.wav|	도께 썽예, 예. 그 다음에 삼춘 그 조 여기는 안 나왓수다마는 조 종류도 ᄋᆢ라 개 아니우꽈예? 좁썰 멘드는 종류.
+./filelists/wavs/485.wav|	주로 모인조, 흐린조 허민 개발시리, 개발시리.
+./filelists/wavs/486.wav|	개발시리예? 꼭 개 모양으로 이렇게 셍겻덴 허멍예?
+./filelists/wavs/487.wav|	그거 그거 검수룽헌 게 그 저 흐린조주.
+./filelists/wavs/488.wav|	노랑 거. 음 거 두 가지. 옛날에는 막 저기 조도 종류 하낫덴 헙디다.
+./filelists/wavs/489.wav|	음, 뭐 강돌와리 이런 말은 안 들어봣수가?
+./filelists/wavs/490.wav|	들어나긴 헷어. 겐디 난 보든 못헤연.
+./filelists/wavs/491.wav|	보든 못허고. 게난 삼춘 본 거는 흐린조허고 이제 모인존데 그 흐린조 중에도 이제 개발시리를 이제 하영 헷다라는 거지예?
+./filelists/wavs/492.wav|	예, 그 다음에 이제 그 태작 해놓면 좁쌀을 멘들아얄 거 아니우과? 거는 어떤 식으로 멘들아마씨?
+./filelists/wavs/493.wav|	ᄊᆞᆯ은 일단 태작허여 놩 불림질 허면.
+./filelists/wavs/494.wav|	불림질 허면 이제 그 체허고 이제 ᄊᆞᆯ허고 이제 알멩이허고 이젠 분 리가 뒈니까.
+./filelists/wavs/495.wav|	그 조를 이젠 가졍 방엣간에 가야 헐 거.
+./filelists/wavs/496.wav|	건 주로. 방엣간에 강 그자 져.
+./filelists/wavs/497.wav|	아, 건 또 도새기 먹고. 게난 옛날은 버리는 게 엇어예?
+./filelists/wavs/498.wav|	버리는 게 엇어. 겐 그 좁쌀로는 주로 뭐 헤신고예?
+./filelists/wavs/499.wav|	또 팔곡. 팔아서 뭐 사고 싶은 거 사고.
+./filelists/wavs/500.wav|	음. 좁썰로 헌 떡은 어떤 떡 잇어신고예?
+./filelists/wavs/501.wav|	뭐 거 것이 ᄀᆞᆮ젠 허난 셍각 안 남쩌. ᄒᆞᆫ 멧 가지가 잇일 건디.
+./filelists/wavs/502.wav|	예, 것도 나중에 여자삼춘한테 또 물어보쿠다. 그 좁썰 허영 엿도 허고.
+./filelists/wavs/503.wav|	음, 집에서도 우리 여자삼춘도 술 헤낫수가?
+./filelists/wavs/504.wav|	무슨 술? 엿도, 엿 허당은에.
+./filelists/wavs/505.wav|	감주를 하영 올렷지예? 제주로예. 아아.
+./filelists/wavs/506.wav|	감주가 제대로 이제 제사 때나 명절 때 헷는데 지금은 와서 그 문화가 없어져부럿주.
+./filelists/wavs/507.wav|	요즘은 감주허는 법이 엇어예?
+./filelists/wavs/508.wav|	아주 명심하는 집은 지금도 감주 허여.
+./filelists/wavs/509.wav|	아아, 감주 허는 집도 잇구나.
+./filelists/wavs/510.wav|	지금도 허여. 즉 말허면 그게 그 엿 되기 전의.
+./filelists/wavs/511.wav|	음, 맞습니다. 삼춘, 그 보릿낭은 걸름허곡.
+./filelists/wavs/512.wav|	우마가 먹는 거라예? 그거는 뭐렌 헙니까? 조찍?
+./filelists/wavs/513.wav|	조칩. 조칩이렌 허는구나. 여기서예? 조칩으로 하고. 조 ᄇᆞᆯ리멍 잊어불지 못허는 추억ᄀᆞ튼 거 잇수가?
+./filelists/wavs/514.wav|	멧 저 멧 무끔을 ᄒᆞᆫ 바리 허는 건 알아지쿠과?
+./filelists/wavs/515.wav|	무끔 ᄒᆞ나 둘 헤영 숫자가 서른 개민 ᄒᆞᆫ 바리.
+./filelists/wavs/516.wav|	견디 이 저 고고리 이실 땐 그런 말 안 ᄀᆞᆮ고.
+./filelists/wavs/517.wav|	음, 찍으로 헐 때는. 게민 여기는 그 조찍 그 조 무끄는 게 뭇이 별로 안 큰가보다양?
+./filelists/wavs/518.wav|	크지 안하고. 어떤 디는 조 이만큼씩 무끈덴도 헨게마는.
+./filelists/wavs/519.wav|	거 그냥 집의 왕 고고리 짤르젠 헐 때에, 고고리 ᄐᆞᆮ젠 헐 때에.
+./filelists/wavs/520.wav|	집의 가져 올 땐 이젠 크게 무껑 ᄒᆞᆫ 쪽에 질메 ᄒᆞᆫ 쪽에 싀 개썩 헤영 ᄋᆢ섯 무끔.
+./filelists/wavs/521.wav|	게믄 그땐 ᄋᆢ섯 개가 ᄒᆞᆫ 바리가. 조찍은 서른 개가 ᄒᆞᆫ 바리고.
+./filelists/wavs/522.wav|	촐은 마흔 뭇. 보리도 시껑 뎅겻수가? 그치룩.
+./filelists/wavs/523.wav|	보리도 멧 바리 멧 바리 헹근엥게 거기서 무끄민.
+./filelists/wavs/524.wav|	아, 서른 뭇을 ᄒᆞᆫ 바리로 치는데 촐은 마흔 뭇예?
+./filelists/wavs/525.wav|	마흔 뭇. 여기도 이 저 뭐 낫으로 빈 거?
+./filelists/wavs/526.wav|	장낫으로 헷느냐 호미로 헷느냐 그게 ᄄᆞ나구나예? 영 헹 이제 조 농 사는 허고. 콩도 하영 갈읍디가?
+./filelists/wavs/527.wav|	콩 하영 안 갈앙 집의 장에 먹을 거.
+./filelists/wavs/528.wav|	아, 여기는 하영 안 가는구나예, 콩은예. 콩 농사 허젠 허믄 어떤 식 으로 준비헷어마씨?
+./filelists/wavs/529.wav|	콩 농사 허젠 허면 그게 그, 저 보릿그르에 가는 수도 잇고.
+./filelists/wavs/530.wav|	이제 겨울 놀렷다가 봄 콩 허는 수도 잇고.
+./filelists/wavs/531.wav|	이제 그러는디 그 우리가 그 밧 ᄒᆞ나 ᄒᆞ게 뒈민 ᄒᆞᆫ ᄒᆞ나도 허곡 엇 인 사름은 반착도 헹근엥에 가는디 그건 이파리가 떨어져서 거름이 뒈니까.
+./filelists/wavs/532.wav|	겨고 건다는 것만 그 셍각헐 게 아니라 지금 와서 셍각해 보니까 이 그 박테리아가 이 질소질을 많이 그 형성헤 줘가지고.
+./filelists/wavs/533.wav|	이 아주 콩 농사만큼은 자주허면은 이 밧이 걸어.
+./filelists/wavs/534.wav|	예, 예, 예. 게난 그런 식으로 이제 그냥 장 담을 걸로만 헌 거라예?
+./filelists/wavs/535.wav|	장 담곡게, 것도 쫌 잇어야 강 ᄑᆞᆷ도 허곡 허주게.
+./filelists/wavs/536.wav|	ᄑᆞᆯ앙근엥에 이 옷도 사 입곡. 무신 거 살림살이도 허곡.
+./filelists/wavs/537.wav|	그 콩은 아까 이제 두 번 갈아마씨? 콩은 언제 갈아?
+./filelists/wavs/538.wav|	그때 허면 수확은 가을에 허는 거난예?
+./filelists/wavs/539.wav|	게믄 역시 콩밧은 거름 아녀켜예?
+./filelists/wavs/540.wav|	거름 안 허고예? 이것도 이제 그 보리 갈아난 그 그르에 갈 거니까. 게문 콩씨는 어떵 뿌립니까?
+./filelists/wavs/541.wav|	여기는 뿌린덴 아녕 콩씨 삔덴 허지예?
+./filelists/wavs/542.wav|	여름에는 더 하쿠다예? 검질이.
+./filelists/wavs/543.wav|	아니 ᄒᆞᆫ 두어 번 메믄 끗나고. 우에서 덮어지니까.
+./filelists/wavs/544.wav|	아아, 콩밧은 여름인디도예. 음, 게믄 두불 메믄 뒈는 거고. 어떤 검질, 콩 검질론 어떤 거라는 거 기억 남수가? 여름 검질들은?
+./filelists/wavs/545.wav|	아아, 제완지예? 제완지도 종류가 ᄋᆢ라 개렌 헙디다.
+./filelists/wavs/546.wav|	바렝이, 예. 쒜비늠 ᄀᆞ튼 거 안 낫수가?
+./filelists/wavs/547.wav|	것도 여름 검질예? ᄎᆞᆷ비눔, 쒜비눔 어, 그런 건 나고. 제완지 검질이 메영 놔둬도 막 부터불고예?
+./filelists/wavs/548.wav|	그게 부터붐도 잘허곡. 저 이 쒜비름도 그거 상당히 죽이기 힘든 거.
+./filelists/wavs/549.wav|	지금은 와서 그걸 그 효소 만들민 상당히.
+./filelists/wavs/550.wav|	맞아, 비름, ᄎᆞᆷ비늠 이런 것도 비름나물허영 육진 먹음니께, 우린 안 먹어도.
+./filelists/wavs/551.wav|	무사 ᄎᆞᆷ비름은 그거 설사도 터지곡 허여.
+./filelists/wavs/552.wav|	으, 변비허는 사름 먹으민 좋아, 옛날도 먹어낫어.
+./filelists/wavs/553.wav|	ᄎᆞᆷ비름 먹어. 쒜비름은 안 먹고. 쒜비름도 경 좋은 걸.
+./filelists/wavs/554.wav|	경허곡 또 그 뭣고? 그 금전초?
+./filelists/wavs/555.wav|	비단풀예? 이렇게 영 셍경 쪼꼴락 쪼꼴락헌 거?
+./filelists/wavs/556.wav|	그것도 그 우린 귀차년 건디 얼마나 좋아. 이 담석증 ᄀᆞ튼 거 ᄆᆞᆫ 녹 여버리니까. 아니라?
+./filelists/wavs/557.wav|	예. 근데 비단풀이 옛날에는 마당에 이런 데들도 막 하영 잇어낫어, 저기.
+./filelists/wavs/558.wav|	흑 마당덜 이런 디덜. 잘 보지도 못허는 거 닮아.
+./filelists/wavs/559.wav|	아직도 많아마씨? 콩은 수확헐 때 콩은 뭐렌 헙니까? 꺼끈덴 허는가 마씨?
+./filelists/wavs/560.wav|	게난 보리나예 조는 빈덴 ᄀᆞᆮ지 아념니까예? 건디 무사 유독 콩은 꺼끈덴 허는고예?
+./filelists/wavs/561.wav|	비는 거허고 거끄는 건 차이가 잇으난.
+./filelists/wavs/562.wav|	어떵 ᄐᆞ난 거우과? 어떤 차이?
+./filelists/wavs/563.wav|	보리나 존 끊어지는디 이건 꺼꺼져.
+./filelists/wavs/564.wav|	그래서 꺼끈덴 ᄀᆞᆯ앗구나게. 게난 콩은 꺼끄고. 꺼끈 다음에 거는 태작 허젠 허면.
+./filelists/wavs/565.wav|	메탁기로나. 옛날에 도께로 콩 하영.
+./filelists/wavs/566.wav|	도께로 허는 건 뭐 허염쩬 헙니까?
+./filelists/wavs/567.wav|	콩 태작? 다 태작이라예? 콩으로는 뭐 헙니까?
+./filelists/wavs/568.wav|	콩으론 메주허곡 국 끌령 먹고.
+./filelists/wavs/569.wav|	그 다음 뭐 뭐냐 그 저 강 돈 강 받아오고.
+./filelists/wavs/570.wav|	예, 결혼헐 때 둠비 허지 아념니까?
+./filelists/wavs/571.wav|	그 콩도 종류가 ᄋᆢ라 가지우과?
+./filelists/wavs/572.wav|	콩 종류가 상당이 많은데 그건 나도 몰르커라.
+./filelists/wavs/573.wav|	뭐, 뭐 청태니 뭐니 청태 뭐 은대두 뭐. 아이고, 나도 이젠 ᄆᆞᆫ딱 잊어부럿네.
+./filelists/wavs/574.wav|	콩으로, 콩나물도 헹 먹엇지예?
+./filelists/wavs/575.wav|	여기는 콩나물이렌 안 허영 뭐렌 헤낫수가? 옛날에.
+./filelists/wavs/576.wav|	콩주름. 게 주름 놓는 콩허고 장 멘드는 콩허고 ᄄᆞ나지 아녑니까?
+./filelists/wavs/577.wav|	지금이야 ᄄᆞ나지 옛날은 그게 그거.
+./filelists/wavs/578.wav|	아, 그 장 멘드는 거 장콩이렌은 안헙디가?
+./filelists/wavs/579.wav|	아, 그저 지금은 장콩이엔 무사. 장콩이엔 허주마는.
+./filelists/wavs/580.wav|	이 저 그건 일단 수확헤다 놩, 놓은 다음에 장 멘들젠 헐 때 장콩이 지 그 전엔 장콩이옌 말을 아녀.
+./filelists/wavs/581.wav|	아, 장 멘들 때. 옛날에사 막 굵은 거 아니우과예? 그, 게 여기는 이 제 주름이렌 헷구나예? 콩찝이렌 헙니까? 콩칩이렌 헙니까? 콩 저기 수확헤난 거 저?
+./filelists/wavs/582.wav|	왜냐면 이게 빌 거, 꺼끌 거 아니우꽈예? 게믄 그거 테작 끗나면 이 렇게 보통 무껑은에.
+./filelists/wavs/583.wav|	건 불 때기도 허곡 소 먹이기도 허곡.
+./filelists/wavs/584.wav|	아, 삼춘 계속 소렌 헴신디 쉐렌 안 헙니까? 이 동네.
+./filelists/wavs/585.wav|	소, 소 헤부난 지금도 소렌 헴서예?
+./filelists/wavs/586.wav|	질들어부런예. 질들어도 이젠 쉐렌도 ᄒᆞ꼼 ᄀᆞᆯ아줍서.
+./filelists/wavs/587.wav|	아, 불 ᄉᆞᆷ곡. 맞수다. 불 ᄉᆞᆷ아야주. 불 때는 게 아니고예, 그거를 콩꼬 질이렌 허여? 콩찝이렌 안하고?
+./filelists/wavs/588.wav|	ᄑᆞᆺ은 ᄑᆞᆺ꼬질허고, 무사 콩꼬질엔 헴신고?
+./filelists/wavs/589.wav|	몰라. 꼬질이렌 헌 걸 그 글잘 ᄎᆞᆽ아봐시민 뭐가 나올진 모르는데, 지금 제주 그 방언을 ᄎᆞᆽ아보면은?
+./filelists/wavs/590.wav|	에 한자음으로 뒌 건 별로 없고.
+./filelists/wavs/591.wav|	음. 게난 이제 콩꼬질 이렇게 영 꼬투리 있는 것들을 다 꼬질헌 거 닮아예, ᄑᆞᆺ도 그렇게 허고.
+./filelists/wavs/592.wav|	콩 농사허멍 뭐 얽힌 추억 이런 건 엇고마씨?
+./filelists/wavs/593.wav|	겨고 삼춘 무사 옛날에 보면 그 조팟디나 이런 디 콩 듬성듬성 영 갈 기도 허지 아념니까예?
+./filelists/wavs/594.wav|	머드레예? 머르레콩 영 헙니까? 여기도.
+./filelists/wavs/595.wav|	머드레옌 ᄀᆞᆮ는디, 그것만 ᄀᆞᆯ렌 허면 안 나와.
+./filelists/wavs/596.wav|	지금 듬성듬성 놧젠 허니깐 머드레 ᄀᆞᆯ아지는디.
+./filelists/wavs/597.wav|	예, 게난 그게 머드레헤고, 대죽도 머드레 허지 아녑니까예?
+./filelists/wavs/598.wav|	대죽도 머드레, 꿰도 머드레.
+./filelists/wavs/599.wav|	꿰도 머드레헙니까? 게믄 꿰머드레 콩머드레 이렇게 허는데, 돌들도 이렇게 논 것도 여기 머드레 헙니까? 머들이엔 헙니까?
+./filelists/wavs/600.wav|	거는 돌 헌 건 머들이렌 허고.
+./filelists/wavs/601.wav|	그 다음에 이제 그 종자 심은 거는 듬성듬성 헌 거는?
+./filelists/wavs/602.wav|	알앗수다. 경 허영은에 이 왜냐면 별도로 밧이 엇이면 다 머드레 놧 당도 장콩들 헌 거 아니라예?
+./filelists/wavs/603.wav|	콩ᄀᆞ르도 뭐 하영 먹엇지예? 콩ᄁᆞ르.
+./filelists/wavs/604.wav|	하영 먹고말고. 옛날 주식이니까덜.
+./filelists/wavs/605.wav|	뭐. 콩ᄀᆞ르로 뭘 헹 먹엇수가? 여기선.
+./filelists/wavs/606.wav|	콩국 끌령 먹고 둠비헤영 먹고.
+./filelists/wavs/607.wav|	콩죽 무사 안 헹 먹어. 옛날은 이제 해산헐 때에.
+./filelists/wavs/608.wav|	애기 나뒁 콩죽 쒄 먹엇저. 무신 콩죽 쒕 먹을, 저녁 먹은 후제 콩죽 쑬 만은 헷저.
+./filelists/wavs/609.wav|	어린 때 시간이 없으니까. 애기 난 그 시간을 그런 식으로 이제 표현 을 헷주. 그건 이제 대개 콩죽을 주로 영.
+./filelists/wavs/610.wav|	먹는 양석에 콩죽을 하영 먹엇다는 거라예? 밥을 못 먹고 허니까.
+./filelists/wavs/611.wav|	무사 그 콩죽 영 쒕 오면 그 우에 이렇게 영 뜨는 거 잇지 아녀우꽈 예? 까풀처럼 이렇게 영 생기는 거 뭐렌 ᄀᆞᆮ는지?
+./filelists/wavs/612.wav|	예. 꼭 언딘 거치룩 영 허자념니까?
+./filelists/wavs/613.wav|	지금 말론 순부두여 뭐여 ᄀᆞᆯ안, ᄀᆞᆮ는 거주마는.
+./filelists/wavs/614.wav|	여기 강 들어도 저기 강 들어도 원 아는 사름이 엇어.
+./filelists/wavs/615.wav|	순두부를 우리말로 여기 방언으로 이제 ᄀᆞᆯ을 사람이 실 건가?
+./filelists/wavs/616.wav|	혹시 산듸도 갈아봅디가? 삼춘.
+./filelists/wavs/617.wav|	일 년 농사. 봄에 일찍 가는 게 잇고 좀 늦엉 가는 게 잇고. 역시 또 것도 보릿그르에 가는 거 잇고.
+./filelists/wavs/618.wav|	건 게난 수확은 늦게 갈수록 족아.
+./filelists/wavs/619.wav|	경 헤영 것도 이 거두어들이는 건 역시 ᄄᆞᆫ 것덜허고 마찬가지.
+./filelists/wavs/620.wav|	그 호미로 비영 이제 가상을 터나 아니면 저 홀테에서 홀트나 메탁 기, 건 메탁긴 최근에 나온 거고.
+./filelists/wavs/621.wav|	수확허는 건 다 ᄀᆞ튼 거고. 그것도 역시 여름농사니까 걸름은 아녈 거고.
+./filelists/wavs/622.wav|	비룐 허고예? 그 산듸도 소끕니까? 그거는 검질?
+./filelists/wavs/623.wav|	에, 산듸, 아 요는 뭐이던지 복잡허게 나면은 우 ᄃᆞ탕은에 뒈들 아 녀.
+./filelists/wavs/624.wav|	우 ᄃᆞ타부난에. 맞아 것도 싸움이 안 뒈는 거구나. 검질도 메야 뒈고. 그 산듸ᄊᆞᆯ은 귀헌 거 아니우꽈예? 여기는 논이 없지양?
+./filelists/wavs/625.wav|	곤떡 헤영 먹고 곤밥 헤영 먹고 이제 그건 요는 제사 때 곤밥허영, 곤밥허영 올리는 거 젤 ᄆᆞᆫ저 ᄀᆞᆯ아살 건디.
+./filelists/wavs/626.wav|	곤밥 헤영근엥에 상에 올리고 곤떡허고 시루떡.
+./filelists/wavs/627.wav|	그거 허곡. 경 또 여유 이시민 ᄑᆞᆯ앙근엥에 뭐 신발이라도 사고.
+./filelists/wavs/628.wav|	예, 게난 이제 예전에 산듸 간 용도는 제사를, 멩질허젠 헌 거라예?
+./filelists/wavs/629.wav|	주로 이제 ᄎᆞᆷ 부자칩이의서나 이제 사람들 먹엇주. 이제 우리 저 가 난헌 집의덜은 그거 ᄎᆞᆷ 제사 때나 먹엇주, 어린 때 당추.
+./filelists/wavs/630.wav|	게난 그 곤밥에 대한 추억들은 하시쿠다예?
+./filelists/wavs/631.wav|	곤밥에 대헌 추억이야 뭐 어느 집의, 게난 옛날도 이 저 제사칩 아이덜 독헌덴 허는 말이 바로 그거지.
+./filelists/wavs/632.wav|	이 자기네 집읜 어려운 걸 그날 처녁은 준비헤영 나눠주니까 뭐 나 말 잘 들어사 헌덴 헤영근엥에 허곡. ᄎᆞᆷ, 그 어려운 그 뭘 그디 강근에게 얻어, ᄎᆞᆷ 젯밥 그 저 음복허곡.
+./filelists/wavs/633.wav|	이 그 식게, 식게 헤난, 식게칩이. 식게엔 헌 게 이거 중간에 말은 ᄄᆞᆫ 딜로 흘른디 먹을 식자가 식사엔 헌 식 자가 에 제사 지낼 식도 뒈여.
+./filelists/wavs/634.wav|	제사 지내고 식게 지네레 감서 허민 제사 지내고 떡 먹으레 감서 헌 말이라.
+./filelists/wavs/635.wav|	옛날에 떡허는 게 오직 식게 때 허난예?
+./filelists/wavs/636.wav|	으으. 게난 지금 여기 학자덜토 식게 헌 건 방송엘 들으나 뭣에 허민 그 잘 그걸 ᄀᆞᆸ갈랑근에 ᄀᆞᆯ아주질 아녀는데 제사 지내고 떡 먹으레 가는 게 식게 먹 으레 감서 헌 말은.
+./filelists/wavs/637.wav|	겐디 이제 그렇게 하는데, 옛날에는예, 식가렌 헌 제도도 잇어난마씨. 식게가 아니라 식가렌 헤갖고 그 기제사가 잇으면 휴가를 줭은에 강 제사를 지냉 오렌 헌 게 그게 식가고.
+./filelists/wavs/638.wav|	그래서 식게가 왐덴 헤갖고 학자덜은 경 ᄀᆞᆯ암수다. 이제. 게난 그런 것도 잇고 이런 뜻도 잇고.
+./filelists/wavs/639.wav|	게, 식게, 식게 그냥 이 제주도 방언이지만 한자음이라이.
+./filelists/wavs/640.wav|	한자음. 이건 이 떡 개허고 이 제사 지낼 식허고.
+./filelists/wavs/641.wav|	경헤근에 헌디 지금 나가 셍각헐 때에 앞에 식게 허면 한자를 찾을 수 잇는 한 찾아서 한자 놓고.
+./filelists/wavs/642.wav|	뜻풀이 놓곡. 이 방언책을 요런 식으로 만들엇으면 이제 너나 헐 것이 알아먹기 쉽곡 뭐헐 게 아니냐 뭐이냐 허주마는 그거 지금 한자에 정신 주는 사 름도 엇고.
+./filelists/wavs/643.wav|	또 옛날 거 나가 영 헤보니까 저디 웃으멍 노는 게 좋은 거지 그거 놩근엥게 영 그거 저거 ᄎᆞᆽ곡 그렇게 힘드니까이.
+./filelists/wavs/644.wav|	게난 모든 게 경 어려운 거로고. 어려와. 지금 ᄎᆞᆷ 이거 지금.
+./filelists/wavs/645.wav|	경 헤연 저번에 온 때에 지금 저 ᄉᆞ나이 남학생이 이거 얼마간 이 여기 줄 그엇는데.
+./filelists/wavs/646.wav|	줄 그은 딜로 전부 우터렌 그냥 저 찍언 갓어.
+./filelists/wavs/647.wav|	찍언 갓는데 이 저 그루후제 경 많질 못허여.
+./filelists/wavs/648.wav|	예. 나중에 저도 베와 줍서. 경허고 그 산듸찍도 옛날엔 엇엉 못 썻잖 엣쑤가예?
+./filelists/wavs/649.wav|	노 꼬고 멍석 ᄌᆞᆮ고 신 삼곡.
+./filelists/wavs/650.wav|	신깍 내곡. 게난 산듸찍이 정말 생활에?
+./filelists/wavs/651.wav|	아이고, 우리 생활에 상당히 그 도움을 준 거주.
+./filelists/wavs/652.wav|	아? 멍석 ᄌᆞᆽ는 거는 봐보고?
+./filelists/wavs/653.wav|	예, 예. 아, 거난 옛날에는 집집마다 멍석 하나 허젠 헤도.
+./filelists/wavs/654.wav|	산듸찝 허영. 그거 이제 웃어른이 허면 그걸 영 두드리믄 헤낫주.
+./filelists/wavs/655.wav|	아, 두두림으로. 거 두드리는 건 뭐렌 헙니까? 냉중에 그 두드리는 거.
+./filelists/wavs/656.wav|	예. 겅헹 이제 부드럽게 저기를 이제.
+./filelists/wavs/657.wav|	물 풀 때는 입으로 푸 부릅니까?
+./filelists/wavs/658.wav|	아이, 물론 거. 입으로 푸무멍.
+./filelists/wavs/659.wav|	입으로 품으멍. 겡은에 산듸찍으로 엇이민?
+./filelists/wavs/660.wav|	그걸 입으로 뿜으라. 입으로 품으라.
+./filelists/wavs/661.wav|	입으로 품으라. 왜냐허면 그게 젖지 않으면은 다 깨져부니까예?
+./filelists/wavs/662.wav|	메주나 뭐 헐 때난 신 삼는 것도 강 빌어당근에 허곡.
+./filelists/wavs/663.wav|	지금은 아메도 거 더듬더듬허영 ᄒᆞ를 걸렴직 허여.
+./filelists/wavs/664.wav|	아, 노도 꼬아야 뒈곡. 경 그 신깍을 잘 내야 뒌덴 헌게마는예?
+./filelists/wavs/665.wav|	그게 이뻐. 이쁘게 해야 곱닥허게.
+./filelists/wavs/666.wav|	음, 경헤도 그 여기는 초신이렌 헙니까? 찝신이렌 헙니까?
+./filelists/wavs/667.wav|	초신이옌예? 초신 삼을 때 왜 초신도 종류가 곱게 삼은 거 허고 그냥 ᄂᆞᆽ인 거 하고 그 깍에 따랑 ᄄᆞ난덴 허멍예?
+./filelists/wavs/668.wav|	노랑케 이제 깍, 붙, 깍이 노랑헤영근에 고니까 거 깍신은 이 깍신이 옌 허곡 붙깍신옌 허곡.
+./filelists/wavs/669.wav|	또 ᄒᆞ나. 뭐가, 막노동헐 때 신게 허는 게 뭐 거 잇는데, 잊어불엇 어.
+./filelists/wavs/670.wav|	그 옛날에 저기 깍도 막 여러 개 놓는 게 아니고, 세 개 삼갑실 헤갖 고 그 상 때. 영장 나면 그 상주들이 신어낫던 신 이런 거는.
+./filelists/wavs/671.wav|	아 그거 역시 그냥 이 초신으로 그냥 신어낫어.
+./filelists/wavs/672.wav|	그 깍 낼 때 미로 이런 식으로 내보진 아녀수가?
+./filelists/wavs/673.wav|	깍신예? 경헤야 곱덴 허멍예?
+./filelists/wavs/674.wav|	깍은 미로 헤근에 내기도 하고예? 게난 이 진짜 산듸는 제영 이런 집에 다 소용되는 거예? 이런 물건들 만들 때 이제 쓰는 거고. 산듸허멍은에 얽인 추 억같은 거?
+./filelists/wavs/675.wav|	그런 건 엇고예? 알앗수다. 이건 농사는 다 짓엉 가사쿠다. 이제 감저 농사허고예, 뭐.
+./filelists/wavs/676.wav|	이제는 감저, 아까 이제 공출도 허고 헷덴 허멍. 감저 농서허젠 허면 은 어떤 식으로 씨 묻는 것부터 시작헹은에 쭉 ᄀᆞᆯ아줍서?
+./filelists/wavs/677.wav|	그 씨, 처음 씨 묻는 걸 구광이라고 헤여이.
+./filelists/wavs/678.wav|	에, 구광을 넣어서 그 줄을 잘 키우면.
+./filelists/wavs/679.wav|	그거. 적당한, 적당한 길이가 뒈면은 그걸 가지고 밧듸 가서.
+./filelists/wavs/680.wav|	밧고지를 크게 헤영 이제 거기에 씰, 줄을 묻어두면 이제 거기에 닿는 저 열매가 부뜨는데 저 우에나 남군이나 거기허고 싱그는 게 이 도련은 틀 려.
+./filelists/wavs/681.wav|	거기는 꾹꾹 질렁만 내불어도 뒈여.
+./filelists/wavs/682.wav|	거긴 질렁만 내불어도 뒈는디 여긴 그렇게 허민 그냥 죽어불어.
+./filelists/wavs/683.wav|	아, 땅이 ᄒᆞ꼼 뜬땅이우과? 여기는.
+./filelists/wavs/684.wav|	저 뜬땅엔 그냥 질렁만 내불어도 뒈는데 이 뒌땅엔 잘 다져줘야.
+./filelists/wavs/685.wav|	음, 게믄 이제 줄 싱겅 똑똑 눌르멍은에 싱거사키여예?
+./filelists/wavs/686.wav|	그런 식으로 이제 헤야 뒈는구나.
+./filelists/wavs/687.wav|	지금은 장갑 쪙 허주마는 옛날은 장갑도 엇이 그냥 맨주먹, 맨손바닥 으로 그냥 막 다져야.
+./filelists/wavs/688.wav|	예, 게믄 그 감저 농사허젠 허면 준비허는 게. 어떤 식으로. 씨는, 씨는 어떵 놔두고 허는 거부터 ᄀᆞᆯ아줍서?
+./filelists/wavs/689.wav|	아, 씨는. 아니 이건 내중에 건 씬 젤 내중에 들어가야주이.
+./filelists/wavs/690.wav|	내중에 들어가. 이건 이제 구광을 넣어서 줄을 키와서 밧듸 가서 심 고 이제 검질메고.
+./filelists/wavs/691.wav|	이제 감저가 잘 들면 한자론 감저라고벳긔 쓸 수가 없어.
+./filelists/wavs/692.wav|	감저 이제 감저가 들민은 이제 그걸 쟁기로 갈아.
+./filelists/wavs/693.wav|	이젠 가져와. 가져당 보관을 허는데.
+./filelists/wavs/694.wav|	이제 감젓구뎅이에 강 묻는 방법도 잇고.
+./filelists/wavs/695.wav|	씨는 사름 자는 방에 넣어둬야 제일 안전헌 거.
+./filelists/wavs/696.wav|	아, 게믄 거는 뭐에 놩은에 그 방에는?
+./filelists/wavs/697.wav|	방에는 그 그것만 놓게끔 그걸 만들어야.
+./filelists/wavs/698.wav|	멕을 만드는 거우꽈? 아니면은?
+./filelists/wavs/699.wav|	아니, 멕에 허영 이런 벡장에 놔도 뒈고. 이곳이 마 골방ᄀᆞ치 우알더 레 영 헤놩 이 저 그 뭘로 영 가려지게.
+./filelists/wavs/700.wav|	가리곡 내중에 카뎅이라도 영 쳐부리민 거기 몰르게.
+./filelists/wavs/701.wav|	게난 그런 걸 그 흑 부뜨고 헐 걸 방안에 놓느냐 헐 사름도 잇지마는 젤 안전허게 보관헐 수 잇는 게 사름 살 수 잇는 그 온도라야 젤 보관이 좋은 거.
+./filelists/wavs/702.wav|	게난 농민덜은 그거 저거 헐 거 엇이 수확헤여 오민 저장허는 방법 을 잘 알아둬야.
+./filelists/wavs/703.wav|	게난 거기에 놓앗다가 ᄑᆞᆯ기도 허고.
+./filelists/wavs/704.wav|	많이 넣으민. 또 다시 저 또 구광 놓곡.
+./filelists/wavs/705.wav|	경허민 한 바꾸 영 도는 거.
+./filelists/wavs/706.wav|	아이고, 미안허우다, 삼춘. 감전 언제 갈아마씨?
+./filelists/wavs/707.wav|	오월, 오월 초 뒈지. 아, 사월달 뒈지.
+./filelists/wavs/708.wav|	게난 구광 놓는 계절은 언제우과?
+./filelists/wavs/709.wav|	아아, 사월 오일 경 구광 놩. 줄.
+./filelists/wavs/710.wav|	경 헹 이제 허곡, 그 감저 싱글 때도 거름헙니까?
+./filelists/wavs/711.wav|	감저 싱글 때 으, 저 갈 때에.
+./filelists/wavs/712.wav|	갈 때에 거름 좀 놔줘야 그건 좋주.
+./filelists/wavs/713.wav|	으음. 주로 어떤 거름 놔신고예?
+./filelists/wavs/714.wav|	주로 퇴비들 조끔썩. 그 저 영 골 팡 놓는 수도 잇곡, 갈 때에 놓는 수도 잇고.
+./filelists/wavs/715.wav|	집줄 물 적졍 쭉허게 놩 거기에 그냥 영 헤두면은 습기가 잇으니까.
+./filelists/wavs/716.wav|	그거는 고량에 이렇게 놩은에 놔두는 거라마씨?
+./filelists/wavs/717.wav|	골 팡 그 우에 감절줄 놔놩 흑 더펑.
+./filelists/wavs/718.wav|	아아, 그런 방법도예. 줄을 버리지 아넹은에 그런 식으로도 헷구나 예?
+./filelists/wavs/719.wav|	경 아녀민 그 줄은 불 때는 거고.
+./filelists/wavs/720.wav|	음, 경 안허면 불 때고예? 아, 게믄 그 감젓줄로 이제 그 싱그는 거 이렇게 메 놓덴 헙니까? 여기는.
+./filelists/wavs/721.wav|	감젓메 논덴 헙니까? 감젓메?
+./filelists/wavs/722.wav|	구강 놓는 게 감젓메 놓는 거옌 허지예?
+./filelists/wavs/723.wav|	구강엔 ᄀᆞᆮ는 사름도 잇고 감젓메엔도.
+./filelists/wavs/724.wav|	감젓메헤면 보통은 줄 어느 정도 크기 헐 때 싱거마씨, 이게?
+./filelists/wavs/725.wav|	그 사십 센치 정도허면 그 정도씩 허영 짤랑 싱그는 거라예? 그 감저 밧듸도 검질메는 거예? 여름에.
+./filelists/wavs/726.wav|	감젓검질도 메고. 옛날 감젓검질도 멧주마는 그 쉐로 헤갖고 구뎅이 굿 올리는 거. 건 뭐렌 헙니까? 골 가는 거?
+./filelists/wavs/727.wav|	게난 골도, 보리도 골 갈고 경 허지예?
+./filelists/wavs/728.wav|	주로 허는 건 보리에 많이 허고.
+./filelists/wavs/729.wav|	일단 감젓고지엔 그 줄덜 더퍼져 놓으니까.
+./filelists/wavs/730.wav|	아, 감저는 골 잘 안 가는구나예? 제가 어렷을 때 제가 보면 감저밧 듸도 그 구뎅이 올려준다고 골 갑디다.
+./filelists/wavs/731.wav|	ᄒᆞ는 건디 검질, 검질 안 메곡.
+./filelists/wavs/732.wav|	경허민 경 허영 좋는디 그 줄이 영 벋어놓니까.
+./filelists/wavs/733.wav|	줄 벋기 전에 건 올리는 거.
+./filelists/wavs/734.wav|	그 감저 파젠 허면은 어떤 식으로 팟수가? 옛날에.
+./filelists/wavs/735.wav|	응. 감저 쟁기로 갈기 전에는 줄 걷어얄 거 아니우과?
+./filelists/wavs/736.wav|	이제 고지만 내앚졍 이제 갈아야.
+./filelists/wavs/737.wav|	음, 게민 저도 감저 줏이레도 가고 헤낫인디.
+./filelists/wavs/738.wav|	겨민 감젓줄은 이제 담 우에 걸쳥 ᄆᆞᆯ류왕 소 양석.
+./filelists/wavs/739.wav|	네, 소 양석. 그게 영양가 한 거라예?
+./filelists/wavs/740.wav|	겅 헤영 이제, 이제 쉐로 갈앙은에 파는 거고예?
+./filelists/wavs/741.wav|	그 다음에 아까 보관허는 거는 감젓눌 헤갖고 허기도 하고.
+./filelists/wavs/742.wav|	방 안네, 방 안네 보관도 허곡.
+./filelists/wavs/743.wav|	방 안네 헐 때는 이런 뭐 상자치록 헹은에 짱은에 허는 것과 아니면 가멩이 ᄀᆞ튼 걸로.
+./filelists/wavs/744.wav|	가멩이 헤영 그냥 놔둬도 뒈고 그냥 그런 뭐가 엇이면. 우린 요처럼 헨 저 골방ᄀᆞ치 이 저.
+./filelists/wavs/745.wav|	요쪽에 영 헨에 그 잇어낫어.
+./filelists/wavs/746.wav|	아, 따로 골방치록 영 세왕 멘든 거라예?
+./filelists/wavs/747.wav|	으. 게영 거긴 앞으로 두주 뭐허듯 영 낭으로 막으멍.
+./filelists/wavs/748.wav|	낭으로 막으멍 건 칸 갈라지주게.
+./filelists/wavs/749.wav|	게영 그거 ᄑᆞᆯ 때는 어떤 식으로 ᄑᆞᆯ앗수가?
+./filelists/wavs/750.wav|	ᄑᆞᆯ 땐 사레 오민 ᄑᆞᆯ기도 허곡.
+./filelists/wavs/751.wav|	옛날에 ᄑᆞᆯ 때도 무사 절간허영 ᄑᆞᆯ기도 허곡 그냥 쌩감
+./filelists/wavs/752.wav|	응, 응. 건 전부허는디. 생감저로도 가고. 절간헤영은에 그건 주정공 장으로 ᄑᆞᆯ레 가.
+./filelists/wavs/753.wav|	그 뻿데기헐 때 얽힌 추억이 하실 거 닮아예?
+./filelists/wavs/754.wav|	그때에 그 추억은 널어서 ᄆᆞᆯ리, 그대로 비 안 오민 좋은데.
+./filelists/wavs/755.wav|	비상이고 잘못허민 집안네 싸움도 나고.
+./filelists/wavs/756.wav|	어디 갔다왔니 뭐허니 허멍 뭐.
+./filelists/wavs/757.wav|	밤인 초롱 쌍 가사. 그때 전기 엇이난.
+./filelists/wavs/758.wav|	전기 엇이난 초롱 쌍 강 놔둠서 그냥 글겡이 강 걷엉.
+./filelists/wavs/759.wav|	이젠 ᄂᆞ람지 아졍 강 그냥 그디 그냥 더프는 거라.
+./filelists/wavs/760.wav|	예에, 게민 글겡이로 헷이면 절, 그 저 감저뻿데긴 어디 강 넌 거우과?
+./filelists/wavs/761.wav|	테역밧듸. 그냥 밧듸는 안 널어마씨?
+./filelists/wavs/762.wav|	그냥 밧듼 경 널어보지 아녀서.
+./filelists/wavs/763.wav|	아아, 저희는 그냥 밧듸 그냥.
+./filelists/wavs/764.wav|	경허면 밤에도 건 허영허니까 그치룩허영 줏이고 허여낫인디.
+./filelists/wavs/765.wav|	경 아녀민 밧듸 넌 건, 안 줏지 않으면 안 뒈니까 열이면 열 개 손 다 헤여사니까. 테역밧듼 글겡이로 모이민.
+./filelists/wavs/766.wav|	게믄 거는 불려야 뒈켜예? 글겡이로 헌 건.
+./filelists/wavs/767.wav|	그렇지. ᄇᆞ름에 불리는 것사게.
+./filelists/wavs/768.wav|	아, 여기는 테엿밧들이 하난 모양이라예? 동네 너른 디 너도 나도 테 역밧 가실 거 아니예?
+./filelists/wavs/769.wav|	저레 헤영근에. 즉 말허면 이 우에, 옛 어른덜 그 지도서 사름덜이 마을 안네 새왓 이신 디 도련뿐이렌 허주.
+./filelists/wavs/770.wav|	새왓도 잇엇낫어. 이 마을 안네. 테엿밧은 촐왓이고.
+./filelists/wavs/771.wav|	새왓듸, 새왓듼 감저 못 널어. 뻿데기.
+./filelists/wavs/772.wav|	그렇주마씨. 둥치가 훍어부니까.
+./filelists/wavs/773.wav|	농토가 제일 풍족한 곳이 도련이주.
+./filelists/wavs/774.wav|	그냥 옛날부터 도련드르렌 헤십주양. 진드르허듯이양. 그 게민 감젓줄 로는 뭐 헷인고양?
+./filelists/wavs/775.wav|	예, 게영은에 집에 ᄒᆞᆫ 눌씩 눌고 헤낫수가?
+./filelists/wavs/776.wav|	응. 게난 조칩이나 조칩 ᄒᆞᆫ 줄.
+./filelists/wavs/777.wav|	감젓줄 ᄒᆞᆫ 줄 놓멍 눌을 눌어둬.
+./filelists/wavs/778.wav|	게니까 이제 그 수확 시기가 거의 비슷허구나예. 조허고 ᄒᆞ꼼 ᄄᆞ난 디.
+./filelists/wavs/779.wav|	따로 감젓줄엔 헙니까? 감저꿀엔 헙니까?
+./filelists/wavs/780.wav|	감젓줄예. 감젓줄 먹진 아녀낫수가? 사름이.
+./filelists/wavs/781.wav|	이파리 줄기 그거 헹근에게 좀 먹엇주.
+./filelists/wavs/782.wav|	음, 헹 대부분은 쉐 먹이고예?
+./filelists/wavs/783.wav|	그 감저 이석 줏이레는 안 뎅겨봔마씨?
+./filelists/wavs/784.wav|	아아, 그때는 잘 감저허는 거는 하영 안 헷구나예?
+./filelists/wavs/785.wav|	음, 심부름을 많이 안헷주. 어쩌다가 엥기면 그냥 일덜 허고.
+./filelists/wavs/786.wav|	그 감저로는 뭘 헤영 먹엇인고예?
+./filelists/wavs/787.wav|	ᄊᆞᆯ 엇인 집은 감저도 양석으로 먹고.
+./filelists/wavs/788.wav|	으, 어떤 식으로 간식은 헨 먹엇수가?
+./filelists/wavs/789.wav|	간식은 콩국 끌령놩근에게 콩국 ᄒᆞᆫ 사발 거려놓곡 감저 쳐당 앞의 놓곡 허민 거 먹엉근에게 때도 살고.
+./filelists/wavs/790.wav|	어, 그러면은 음 요즘은 영양식인디. 아, 게난 이제 감저를 먹드래도 짐치만 허는 게 아니라 콩국도 ᄀᆞ치 헤갖고 이렇게 먹엇다예?
+./filelists/wavs/791.wav|	이 감저도 밥헐 때도 놓지 아념니까?
+./filelists/wavs/792.wav|	예, 주로 어떤 식으로 헐 때 밥헐 때 놔놘신고예?
+./filelists/wavs/793.wav|	어떤 식으로 허영 허민. 겐디 감저 놩 헌 밥이 맛 좋아.
+./filelists/wavs/794.wav|	게영 우리 어릴 땐 그걸 더 먹어낫어.
+./filelists/wavs/795.wav|	그 뭐야 좁썰 놩 허고 허민 정말 별미라예?
+./filelists/wavs/796.wav|	별미주. 지금은 아주 그 돈 많이 줘도 그거 어려울 거라.
+./filelists/wavs/797.wav|	좁썰도 잘 못 사. 맛 좋은 좁썰을 못 사니까. 경허고 삼춘, 그 감저뻿 데기로도 뭐 헤 먹읍니까?
+./filelists/wavs/798.wav|	건 어떤 식으로 허는 거우과?
+./filelists/wavs/799.wav|	ᄀᆞ를 헤영. 그걸로 떡허여 먹어.

@@ -1,0 +1,100 @@
+./filelists/wavs/800.wav|	어떤 떡을 헤여? 그걸로. 감저뻿데기로는?
+./filelists/wavs/801.wav|	으, 개떡인디 줴기, 아니 줴기떡은 저 밀로 만든 거고.
+./filelists/wavs/802.wav|	돌레떡. 둥그렁허게 헤연은에예. 아 감젓돌레. 그걸로 저기 침떡ᄀᆞ 뜬 거는 안 헤여마씨?
+./filelists/wavs/803.wav|	침떡은 아녀보고 돌레떡 헤영 개떡 식으로 경헹 먹은 거라예? 그다음 삼춘, 그 말고 혹시 수박이라든가?
+./filelists/wavs/804.wav|	고치, 어린 때야 그 뭐 집에 먹을 걸 쪼금 그자.
+./filelists/wavs/805.wav|	거 뭐 헷는디 요즘 와서 조금.
+./filelists/wavs/806.wav|	아, 고치 싱것고예? 저기 ᄂᆞᄆᆞᆯ은 갈아마씨?
+./filelists/wavs/807.wav|	아, ᄂᆞ물도게 농촌에 살면서 자기대로 헤 먹는 게 그 저 재미니까.
+./filelists/wavs/808.wav|	또 맛도 좋고. 자기 공들어야.
+./filelists/wavs/809.wav|	공들어야 맛도 좋고예? ᄂᆞᆷ삐도 여기 하영 갑니까? 여기는.
+./filelists/wavs/810.wav|	예, 거는 허고, 감저는? 지실? 지슬?
+./filelists/wavs/811.wav|	지실은 우리 집의 쯤은 멧 굿 놩 허니까 별미가 뒈여이.
+./filelists/wavs/812.wav|	아아, 지실은 어떤 식으로 허는 거우과?
+./filelists/wavs/813.wav|	지실은 그냥 밧듸 강 저 과수원 트멍에.
+./filelists/wavs/814.wav|	조금 헹 놧다근엥에. 견디 꿩 앞의 일러부카부덴 그냥 그물도 다 치 곡.
+./filelists/wavs/815.wav|	아아, 게난 그 과수원에 그냥 지슬은 멧 개 싱검구나예?
+./filelists/wavs/816.wav|	멧 굿 놤구나예? ᄆᆞ멀들은 하영 갈앗어예? 여기예?
+./filelists/wavs/817.wav|	아, 여기는 그냥 조허고 보리 이런 거엿구나양?
+./filelists/wavs/818.wav|	아아, 삼춘넨 ᄆᆞ멀 갈아보지 않고?
+./filelists/wavs/819.wav|	안 갈아봔예? 혹시 여기 그 담배 ᄀᆞ튼 것도 싱거낫수과?
+./filelists/wavs/820.wav|	아, 혹시 삼춘도 싱거봔마씨?
+./filelists/wavs/821.wav|	난 하르버지 허는 것만 봐낫어.
+./filelists/wavs/822.wav|	예, 그 봐난 것만이라도 어떤 식으로 허드란 거 ᄀᆞᆯ아줍서?
+./filelists/wavs/823.wav|	파니 만들엉 거기 씨 뿌렷당.
+./filelists/wavs/824.wav|	이젠 그거 ᄒᆞ나ᄒᆞ나 이젠 심어.
+./filelists/wavs/825.wav|	옮경 싱겅 커 가면 이파리 땅. 이젠 이파릴 여깡.
+./filelists/wavs/826.wav|	이젠 ᄆᆞᆯ류와. 이제 공판허곡.
+./filelists/wavs/827.wav|	음. 공판허곡. 혹시 그 이파리 여껑 허면 이렇게 이제 무끄기도 헐 거 아니우과? 멧 개씩 여끄는 건 알아지쿠과?
+./filelists/wavs/828.wav|	적당허게. 이렇게 싱근 거는?
+./filelists/wavs/829.wav|	경 허영 그런 거를 뭐, 뭐 부르는 일름은 엇어마씨?
+./filelists/wavs/830.wav|	게메, 그걸 담배 ᄋᆢ깡 ᄆᆞᆯ리우켜 허영 그자.
+./filelists/wavs/831.wav|	게영 그거 ᄑᆞᆯ 때는 멧 개씩 헹은에 뭐?
+./filelists/wavs/832.wav|	무게로. 무게로. 옛날 같은 경우는?
+./filelists/wavs/833.wav|	옛날에 열 개 허면은 ᄒᆞᆫ 접이여 이런 식으로는 안 헤봔마씨? 여기서는.
+./filelists/wavs/834.wav|	아, 그건 ᄑᆞᆯ레 가젱 허민 그 요만이 허영은에 요거 담배 잎으로 그냥 감앙.
+./filelists/wavs/835.wav|	영, 경 허민 그것이 ᄒᆞᆫ 쓰무 개썩은 놘 무껌실 거라. 거 이 한 둘레 가.
+./filelists/wavs/836.wav|	ᄒᆞᆫ 돌레가. ᄒᆞᆫ ᄃᆞᆯ레 영 헙니까? 스무 개. 무끈 거예? 열 개씩도 무끈 덴 허곡 영 ᄀᆞᆯ안게마는.
+./filelists/wavs/837.wav|	그거는 정확한 기억은 없고예?
+./filelists/wavs/838.wav|	옛날에는 여기 그, 함덕 하면 막 베추 ᄂᆞᄆᆞᆯ. 배추가 막 유명헤낫지 아 녀수가예?
+./filelists/wavs/839.wav|	이 집에 짐치 담앙 먹을 것도 삼양 강. 여기서도 뒈는 걸.
+./filelists/wavs/840.wav|	여기서도 뒈는 걸. 거기 안 가면 안 뒈는 줄 알앙. 삼양 지금 저 학 교 그 곁에덜 강 밧 요만썩 헹 ᄒᆞᆫ 발에 얼마썩 헤영.
+./filelists/wavs/841.wav|	삼춘네도 그 속앚인ᄂᆞᄆᆞᆯ허젠 허면은 강 빌엉 헤낫수가?
+./filelists/wavs/842.wav|	건 어떤 식으로 빌엉, 어떤 식으로 갈아낫수가? 배추는?
+./filelists/wavs/843.wav|	짐치 헤영 먹고. 음, 게 그렇게 해서 헌 게 우리 김장 아니라예? 요즘 예?
+./filelists/wavs/844.wav|	예전엔 배추렌 안 헹은에 다 ᄂᆞᄆᆞᆯ 갈앗덴 영 헤낫수과?
+./filelists/wavs/845.wav|	배치ᄂᆞᄆᆞᆯ. 것도 속 안 앚는 거. 들머귀여 뭐여 상당이. 오히려 옛 어른덜 말허는 거 보민 들머귀가 더 맛 좋앗젠 헤여.
+./filelists/wavs/846.wav|	그 들머귀는 속 안 앚는 거 아니우과?
+./filelists/wavs/847.wav|	아니 앚는 거. 파랗게 녹색으로.
+./filelists/wavs/848.wav|	들머귀예? 게민 그걸로도 이제 짐치 헹 먹고. 그 다음에 이제 뭐 지 금은 갓이렌 허주마는 여기는. 갓 알아지쿠과?
+./filelists/wavs/849.wav|	갯ᄂᆞ물로도 짐치 하영 헤먹엇어예?
+./filelists/wavs/850.wav|	갯ᄂᆞ물은 일부러 갈질 아녀고.
+./filelists/wavs/851.wav|	그냥 저런 디 자꾸 씨 불려낭은에 갈지 아녀도 그 담 에염에덜 만허 여.
+./filelists/wavs/852.wav|	경허민 그거 헤당은에 자기 밧듸 거.
+./filelists/wavs/853.wav|	예, 경 허영은에 먹고. 이것저것 하영 허고. 그 ᄂᆞᆷ삐 ᄀᆞ뜬 것도 허영 썰엉 ᄆᆞᆯ리기도 허고예?
+./filelists/wavs/854.wav|	음, ᄂᆞᆷ삐도 저기 배추ᄂᆞᄆᆞᆯ 헐 때 ᄀᆞ치 헙니까?
+./filelists/wavs/855.wav|	예. 알앗수다. 농사를 여기 혹시 용시렌 헙니까?
+./filelists/wavs/856.wav|	물어보쿠다예. 옛날 그 쉐 질롸낫지예?
+./filelists/wavs/857.wav|	쉔 질룰 때 이제 결혼헤서 처음에 소, 소를 없은 때는 놈으 쉐 멤 쉐 메연.
+./filelists/wavs/858.wav|	멤쉐 그 ᄄᆞᆫ 사름 돈 잇는 사름이 소가 두 머리 잇으면 그거 ᄒᆞᆫ 머리 암소 가져다가 그걸 키우면서 새끼 낳민 그거 반착씩 이제 나누어서 이제 임자 반 나 반.
+./filelists/wavs/859.wav|	헤서, 거 키, 키우면서 키우면서 이제 소는 이제 불롸가는 거. 이제 숫자를.
+./filelists/wavs/860.wav|	그 우리 제주도 말로 하영 헤예?
+./filelists/wavs/861.wav|	쉐 종류는 어떤 종류덜 이신고예?
+./filelists/wavs/862.wav|	쉐 종류는 그거예, 지금에 와서는 말할라고 그러니까 갑자기 조금 그 여라 가진데.
+./filelists/wavs/863.wav|	식쉐라는 건 저 요즘 말허는 그 저 육지서 말허는 칡소.
+./filelists/wavs/864.wav|	식쉐. 뭐 어럭쉐도 검은어럭, 노랑어럭.
+./filelists/wavs/865.wav|	음, 검은어럭은 어떵허고, 노랑어럭은 어떵헙니까?
+./filelists/wavs/866.wav|	검은어럭은 검은, 검은 털에 하얀색 들어간 거고.
+./filelists/wavs/867.wav|	노랑어럭은 노란색에 하얀 털이 들어간 거.
+./filelists/wavs/868.wav|	게믄 노랑어럭쉐 검은어럭쉐. 그 뿔 모양으로도 ᄐᆞ나지예?
+./filelists/wavs/869.wav|	뿔은 접박부리, 건지뿔. 또 아이고, 앞더레 돌아온 거 뭐인지 모 르겟다, 그건.
+./filelists/wavs/870.wav|	접박부린 이 뿔 끗이 두이로 이제 이렇게 돌아가니까 이제 옆구릴 이렇게 허민 옆구리 박을 수 잇는 게 이 접, 접을 박아분다.
+./filelists/wavs/871.wav|	접은 이 모가지 이디. 모가지.
+./filelists/wavs/872.wav|	이렇게 허면은 여길 박을 수 접 박는, 접을 박는다.
+./filelists/wavs/873.wav|	예, 예, 예. 접박부리 잇고.
+./filelists/wavs/874.wav|	건지뿔은, 건지뿔은 우로 올라간 거.
+./filelists/wavs/875.wav|	다시 이 앞으로 올라간 것은 바른 뿔은 잘 모르겠네.
+./filelists/wavs/876.wav|	아, 것도 튿냉 놔둡서. 나중에.
+./filelists/wavs/877.wav|	앞으로 돌아간 거. 그걸 나도 이따가 쫌 메모해야 다시 들어봐야 뒈 겟네.
+./filelists/wavs/878.wav|	예, 예. 접박뿌리 잇고, 건지뿔은 위로 간 거고예?
+./filelists/wavs/879.wav|	게고 ᄃᆞᆯ각부리가 잇는데. ᄃᆞᆯ각뿌리.
+./filelists/wavs/880.wav|	암소에 잇어가지고 이렇게 흔들어지는 거.
+./filelists/wavs/881.wav|	뿔이 힘엇이 이렇게 흔드는 ᄃᆞᆯ각부리.
+./filelists/wavs/882.wav|	게난 뿔 모냥으로도 이제 ᄄᆞ나는 거잖아예?
+./filelists/wavs/883.wav|	그 다음에, 아까는 털 색깔로 헌 거는 아까 얘기를 한 거고예? 그런 거 말고 이제 어린 쉐는 어떤 거 이십니까?
+./filelists/wavs/884.wav|	어린 쉐에는 뭐 금승하면 금승에도 이제, 그 검게 나민 검은 송아 지 낳저.
+./filelists/wavs/885.wav|	이제 노랑 송아지 낳저. 뭐 이제 색깔이 거줌 어련, 어머니 배 베꼇 듸서 떨어지면은 색깔덜이 거줌 아는 사람덜은 아니까.
+./filelists/wavs/886.wav|	그렇게 헤서 무슨 새끼 낫저. 금승, 다간, 이제 사릅, 나릅.
+./filelists/wavs/887.wav|	이제 나릅, 금승, 다간, 사릅, 나릅, 다습.
+./filelists/wavs/888.wav|	예. 그러면은 그 ᄋᆢ습 이런 말은 안 써마씨?
+./filelists/wavs/889.wav|	ᄋᆢ습ᄁᆞ장은 지금 들어보질 아녀진 것 같은데.
+./filelists/wavs/890.wav|	다섯까지. 그 손 어떵 이용헤낫수과? 쉐들.
+./filelists/wavs/891.wav|	쉐덜은 키웁당근엥에 주로 이제 저 마차, 마차허곡.
+./filelists/wavs/892.wav|	마찬 그 저 쉐, 일본말론 구루마고.
+./filelists/wavs/893.wav|	이제 우리말론 이제 차옌 허연 헌디. 이제 그걸로 허곡 밧갈이 허고.
+./filelists/wavs/894.wav|	또. ᄄᆞᆫ 디보단도 여기서는 그 조 갈 때엔 조는 잘 밟아줘야 그게 이제 커도 이 저 자빠지지 아년.
+./filelists/wavs/895.wav|	건실허니깐 잘 밟아주민 존 상당히 좋다고 헹근에 조도 밟고. 여러 머리 이시면 밧테 강 여러 머리 담아놩 그냥 돌리면 빨리 밟아졍 것도 상당히 좋은 거고.
+./filelists/wavs/896.wav|	쉐도 그런 식으로 밧 ᄇᆞᆯ리는 디도 썻어예?
+./filelists/wavs/897.wav|	아, 구루마 끗는 데도 쓰고예?
+./filelists/wavs/898.wav|	그 쉐 질들일 때는 어떵헤근에 헙니까?
+./filelists/wavs/899.wav|	질들일 때엔 이제 그 돌코옌 헤영근에 끗엉 당기는 돌이, 돌이 잇는데, 이런 둥글렁헌 돌 그냥 무거운 돌.
