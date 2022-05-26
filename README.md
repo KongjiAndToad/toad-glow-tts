@@ -10,6 +10,11 @@
 |![minju](https://github.com/MINJU-KIMmm.png)|![cheun](https://github.com/lcheun.png)|![sj](https://github.com/offsujin.png)|![jh](https://github.com/jh-jin.png)|
 |BackEnd, TTS, 팀장|FrontEnd, 기계번역|BackEnd, TTS|FrontEnd|
 
+## How to use
+- ipynb 파일로 제공됩니다.</br>
+[glow-tts-사용법](https://colab.research.google.com/drive/1nJUW0TpNG79rDFSD22d3B4bgWqsLsf0-?usp=sharing)
+![](https://user-images.githubusercontent.com/81242672/170463326-bcb1c5b5-31c6-4a0a-8704-5266d4149ac2.png)
+
 ## Repository
 ### 🗂 toad-server
 `Django`를 사용한 API 서버 Repository
